@@ -1,0 +1,1 @@
+LoadPOFile("BrazilianLanguagePack.po", "pt")

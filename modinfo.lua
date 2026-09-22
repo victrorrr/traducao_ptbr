@@ -1,0 +1,9 @@
+name = "Minha Tradução PT-BR"
+description = "Meu primeiro mod de tradução para Don't Starve Together."
+author = "Lucy"
+version = "1.0"
+api_version = 10
+dst_compatible = true
+dont_starve_compatible = false
+client_only_mod = true -- Mods de idioma devem rodar apenas no seu jogo (cliente)
+all_clients_require_mod = false
