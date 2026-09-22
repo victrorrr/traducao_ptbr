@@ -307,24 +307,14 @@ msgid "Spooky illumination."
 msgstr "Iluminação macabra."
 
 #. STRINGS.RECIPE_DESC.HAWAIIANSHIRT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.HAWAIIANSHIRT"
 msgid "Fun in the sun. Or on Casual Fridays."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Diversao ao sol. Ou as sextas feiras casuais.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lazer no sol, sendo turista ou nao."
+msgstr "Lazer no sol, ou em dias casuais."
 
 #. STRINGS.RECIPE_DESC.PAPYRUS
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.PAPYRUS"
 msgid "For writing things."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Para escrever as coisas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Para escrever coisas."
+msgstr "Para escrever coisas."
 
 #. STRINGS.RECIPE_DESC.BOOK_BIRDS
 msgctxt "STRINGS.RECIPE_DESC.BOOK_BIRDS"
@@ -332,14 +322,9 @@ msgid "1000 species: habits, habitats, and calls."
 msgstr "Mil especies: habitos, habitats e cantos."
 
 #. STRINGS.RECIPE_DESC.ORANGEAMULET
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ORANGEAMULET"
 msgid "For those who don't like to pick items up."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Para aqueles que nao gostam de pegar itens.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Para aqueles que nao gostam de catar items."
+msgstr "Para aqueles que não gostam de pegar itens."
 
 #. STRINGS.RECIPE_DESC.GUNPOWDER
 msgctxt "STRINGS.RECIPE_DESC.GUNPOWDER"
@@ -347,104 +332,54 @@ msgid "A handful of gunpowder."
 msgstr "Um punhado de polvora."
 
 #. STRINGS.RECIPE_DESC.BEEBOX
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BEEBOX"
 msgid "Store your own bees."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Guarde as suas proprias abelhas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Armazene suas proprias abelhas."
+msgstr "Armazene suas próprias abelhas."
 
 #. STRINGS.RECIPE_DESC.GOLDENAXE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.GOLDENAXE"
 msgid "Chop down trees with STYLE!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Derrube arvores com estilo!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Derrube arvores com ESTILO!"
+msgstr "Derrube arvores com ESTILO!"
 
 #. STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL"
 msgid "Pops up and bites whoever steps on it."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aparece e morde quem pisa nele.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Salta e morde qualquer um que pisar nela"
+msgstr "#Salta e morde qualquer um que pisar nela."
 
 #. STRINGS.RECIPE_DESC.TENT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.TENT"
 msgid "Restores sanity, but costs time and hunger."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Restaura sanidade, mas custa tempo e fome.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Restaura sanidade, custando tempo e fome."
+msgstr "Restaura sanidade, custando tempo e fome."
 
 #. STRINGS.RECIPE_DESC.GOLDENPITCHFORK
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPITCHFORK"
 msgid "Rearrange the whole world."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Reorganize o mundo inteiro.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Remodele o mundo inteiro."
+msgstr "Remodele o mundo inteiro."
 
 #. STRINGS.RECIPE_DESC.RAINHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RAINHAT"
 msgid "Soft to the touch, slick to the rain."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Macio ao toque e escorregadio na chuva.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Macio ao toque, escorregadio na chuva."
+msgstr "Macio ao toque, escorregadio na chuva."
 
 #. STRINGS.RECIPE_DESC.ARMORGRASS
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
 msgid "Provides a small amount of protection."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fornece uma pequena quantidade de protecao.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fornece um pouco de protecao."
+msgstr "Fornece um pouco de proteção."
 
 #. STRINGS.RECIPE_DESC.RABBITHOUSE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RABBITHOUSE"
 msgid "Houses a giant rabbit and all his stuff."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abriga um coelho gigante e todas as suas coisas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Espaco pra um coelho gigante e as tralhas dele."
+msgstr "Espaço pra um coelho gigante e as tralhas dele."
 
 #. STRINGS.RECIPE_DESC.RAZOR
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RAZOR"
 msgid "Shave off your dirty beatnik beard."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Raspe sua barba suja.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tire essa barba suja de beatnick."
+msgstr "Tire essa barba suja de beatnick."
 
 #. STRINGS.RECIPE_DESC.THULECITE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.THULECITE"
 msgid "Combine tiny bits into a big chunk."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Combinar pequenos pedacos em um grande pedaco.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Combine pedacinhos num pedacao."
+msgstr "Combine pedacinhos num pedação."
 
 #. STRINGS.RECIPE_DESC.TREASURECHEST
 msgctxt "STRINGS.RECIPE_DESC.TREASURECHEST"
@@ -452,84 +387,44 @@ msgid "A sturdy container."
 msgstr "Um recipiente resistente."
 
 #. STRINGS.RECIPE_DESC.FIREPIT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FIREPIT"
 msgid "A safer, more efficient campfire."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Uma fogueira mais segura, mais eficiente.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Um fogareu mais seguro e eficaz."
+msgstr "Uma fogueira mais segura e eficaz."
 
 #. STRINGS.RECIPE_DESC.CAMPFIRE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.CAMPFIRE"
 msgid "Provides light while burning."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fornece luz durante a queima.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fornece luz enquanto queima."
+msgstr "Fornece luz enquanto queima."
 
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SANITY"
 msgid "Protects your body, but not your mind."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protege o seu corpo, mas nao sua mente.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protege o seu corpo, mas nao a sua mente."
+msgstr "Protege o seu corpo, mas não a sua mente."
 
 #. STRINGS.RECIPE_DESC.ONEMANBAND
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ONEMANBAND"
 msgid "Even crazy musicians amass a following."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mesmo musicos loucos acumulam uma sequencia.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mesmo musicos loucos tem seguidores."
+msgstr "Mesmo músicos loucos tem seguidores."
 
 #. STRINGS.RECIPE_DESC.FIRESTAFF
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FIRESTAFF"
 msgid "Harness the power of combustion!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aproveite o poder da combustao!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Controle o poder da combustao!"
+msgstr "Controle o poder da combustão!"
 
 #. STRINGS.RECIPE_DESC.BOOK_SLEEP
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BOOK_SLEEP"
 msgid "Soothing tales to send you off to dreamland."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Contos calmantes para te enviar a terra dos sonhos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Contos calmantes que te levam a terra dos sonhos."
+msgstr "Contos calmantes que te levam a terra dos sonhos."
 
 #. STRINGS.RECIPE_DESC.FIRESUPPRESSOR
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FIRESUPPRESSOR"
 msgid "Saves plants, puts out fires, fueled by flame."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Salva plantas apagando o fogo.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Salva plantas, apaga o fogo, requer combustivel."
+msgstr "Salva plantas, apaga o fogo, requer combustível."
 
 #. STRINGS.RECIPE_DESC.HAMBAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.HAMBAT"
 msgid "It takes food to make food."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ele leva comida para fazer comida.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Preciso de comida para fazer comida."
+msgstr "É preciso de comida para fazer comida."
 
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
@@ -537,74 +432,39 @@ msgid "Light the night with your dreams."
 msgstr "Ilumine a noite com seus sonhos."
 
 #. STRINGS.RECIPE_DESC.AXE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.AXE"
 msgid "Chop down trees!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Derruba arvores!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Derrube arvores!"
+msgstr "Derrube arvores!"
 
 #. STRINGS.RECIPE_DESC.ICEHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ICEHAT"
 msgid "Science, on the rocks."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ciencia, sobre as rochas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ciencia, com gelo."
+msgstr "Ciência, com gelo."
 
 #. STRINGS.RECIPE_DESC.TOPHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.TOPHAT"
 msgid "The classiest hat of all."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O chapeu mais gracioso de todos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O chapeu mais classudo de todos."
+msgstr "O chapéu com mais classe de todos."
 
 #. STRINGS.RECIPE_DESC.FISHINGROD
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FISHINGROD"
 msgid "Go fishing. For fish."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Use para pescar, no caso peixes.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Va Pescar. Peixes."
+msgstr "Va Pescar. Peixes."
 
 #. STRINGS.RECIPE_DESC.SLOW_FARMPLOT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.SLOW_FARMPLOT"
 msgid "Grows seeds."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cresce sementes.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cultiva sementes."
+msgstr "Cultiva sementes."
 
 #. STRINGS.RECIPE_DESC.BEEFALOHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BEEFALOHAT"
 msgid "Be one with the herd! Smell included."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Seja um ou um rebanho! O cheiro eh horrivel.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Seja uno com o rebanho! E o cheiro."
+msgstr "Seja um com o rebanho! Cheiro incluso."
 
 #. STRINGS.RECIPE_DESC.WINTERHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WINTERHAT"
 msgid "Keeps yer noggin warm."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mantem sua cabeca quente.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixa sua cuca quente."
+msgstr "Mantem sua cabeça quente."
 
 #. STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE
 msgctxt "STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE"
@@ -617,24 +477,15 @@ msgid "Light up the night with your noggin."
 msgstr "Ilumine a noite com a sua cuca."
 
 #. STRINGS.RECIPE_DESC.RAINOMETER
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RAINOMETER"
 msgid "Observe precipitation probabilities."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Observe a probabilidade de catastrofes.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Observe as chances de precipitacao."
+msgstr "Observe as chances de precipitação."
 
 #. STRINGS.RECIPE_DESC.COLDFIREPIT
 #, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.COLDFIREPIT"
 msgid "More efficient, but still backwards."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mais eficiente, mas ainda ultrapassada.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mais eficiente, mas ainda ao contrario."
+msgstr "Mais eficiente, mas ainda ao contrario."
 
 #. STRINGS.RECIPE_DESC.TELESTAFF
 msgctxt "STRINGS.RECIPE_DESC.TELESTAFF"
@@ -642,194 +493,99 @@ msgid "Bend space! Time bend sold separately."
 msgstr "Distorca o espaco! Tempo nao incluso."
 
 #. STRINGS.RECIPE_DESC.ICEBOX
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ICEBOX"
 msgid "Slows food spoilage."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Retarda a deterioracao dos alimentos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Diminui o ritmo de apodrecimento."
+msgstr "Diminui o ritmo de apodrecimento."
 
 #. STRINGS.RECIPE_DESC.STRAWHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.STRAWHAT"
 msgid "Helps you stay cool and dry."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ajuda voce a ficar seco e fresco.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ajuda a ficar seco e refrescado."
+msgstr "Ajuda a ficar seco e refrescado."
 
 #. STRINGS.RECIPE_DESC.WATERMELONHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WATERMELONHAT"
 msgid "Refreshing, but sticky."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Refrescante, mas pegajoso.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Quer aparecer?"
+msgstr "Quer se aparecer?"
 
 #. STRINGS.RECIPE_DESC.FOOTBALLHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FOOTBALLHAT"
 msgid "Protect your braincase."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Proteje a sua caixa craniana.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Proteja essa sua cachola."
+msgstr "Proteja essa sua cachola."
 
 #. STRINGS.RECIPE_DESC.SWEATERVEST
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.SWEATERVEST"
 msgid "Rugged, yet stylish."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Robusto, mas elegante.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Robusto, mas com estilo."
+msgstr "Robusto, mas com estilo."
 
 #. STRINGS.RECIPE_DESC.ICESTAFF
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ICESTAFF"
 msgid "Freeze enemies in their tracks."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Congela inimigos em seu caminho.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Congele inimigos no lugar."
+msgstr "Congele inimigos no lugar."
 
 #. STRINGS.RECIPE_DESC.BUGNET
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BUGNET"
 msgid "Catch bugs."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Captura insetos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pegar insetos."
+msgstr "Capture insetos."
 
 #. STRINGS.RECIPE_DESC.NIGHTMAREFUEL
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.NIGHTMAREFUEL"
 msgid "Evil residue used by the foolish and crazy."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Residuo mal utilizado pelos tolos e loucos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Residuo malevolo usado por tolos e loucos."
+msgstr "Resíduo malévolo usado por tolos e loucos."
 
 #. STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR"
 msgid "Nicely checkered marble tiles."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Agradavel azulejo de marmore xadrez.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Azulejos quadriculados de marmore."
+msgstr "Azulejos quadriculados de mármore."
 
 #. STRINGS.RECIPE_DESC.MEATRACK
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.MEATRACK"
 msgid "The jerkiest of racks."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixe suas carnes ao sol.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"A charqueada improvisada."
+msgstr "Deixe suas carnes ao sol."
 
 #. STRINGS.RECIPE_DESC.ARMORWOOD
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ARMORWOOD"
 msgid "Protects you from some damage."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protege voce de algum dano.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Te protege um pouco."
+msgstr "Te protege um pouco."
 
 #. STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RESURRECTIONSTATUE"
 msgid "Resurrect yourself via the power of meat."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ressucita a si mesmo atraves do poder da carne.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Se ressuscite com o poder da carne."
+msgstr "Se ressuscite com o poder da carne."
 
 #. STRINGS.RECIPE_DESC.CANE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.CANE"
 msgid "Trot on with speed and poise."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Anda com velocidade e equilibrio.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Trotando rapido e com equilibrio."
+msgstr "Trotando rapido e com equilibrio."
 
 #. STRINGS.RECIPE_DESC.WALL_WOOD_ITEM
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WALL_WOOD_ITEM"
 msgid "Wooden wall segments."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Segmentos de parede de madeira.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Paredes de madeira em pedacos."
+msgstr "Paredes de madeira em pedaços."
 
 #. STRINGS.RECIPE_DESC.WATHGRITHRHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WATHGRITHRHAT"
 msgid "The unicorn is what protects you."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O unicornio que vai proteger voce.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O unicornio e o que te protege."
+msgstr "O unicórnio é o que te protege."
 
 #. STRINGS.RECIPE_DESC.CATCOONHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.CATCOONHAT"
 msgid "For those who value warmth over friends."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Para aqueles que valorizam o calor com amigos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aos que prezam mais o calor que a amizade."
+msgstr "Aos que prezam mais o calor que a amizade."
 
 #. STRINGS.RECIPE_DESC.FERTILIZER
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.FERTILIZER"
 msgid "Less poop on hands, more poop on plants."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Menos coco nas maos, mais coco nas plantas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Menos fezes na mao, mais nas plantas."
+msgstr "Menos fezes na mão, mais nas plantas."
 
 #. STRINGS.RECIPE_DESC.EYEBRELLAHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.EYEBRELLAHAT"
 msgid "An eye on the sky keeps you dry."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ficar de olho no ceu mantem voce seco.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"De olho no ceu, mais que um chapeu."
+msgstr "De olho no céu, mais que um chapéu."
 
 #. STRINGS.RECIPE_DESC.HOMESIGN
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.HOMESIGN"
 msgid "Make your mark upon the world."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixe a sua marca no mundo.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixe sua marca no mundo."
+msgstr "Deixe sua marca no mundo."
 
 #. STRINGS.RECIPE_DESC.SEWING_KIT
 msgctxt "STRINGS.RECIPE_DESC.SEWING_KIT"
@@ -837,24 +593,14 @@ msgid "Fix up degraded clothing items."
 msgstr "Conserte roupas degradadas."
 
 #. STRINGS.RECIPE_DESC.COLDFIRE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.COLDFIRE"
 msgid "This fire is from opposite day."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Este fogo eh o oposto.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Isso e o contrario de fogo."
+msgstr "Isso é o contrario de fogo."
 
 #. STRINGS.RECIPE_DESC.BELL
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BELL"
 msgid "This isn't just any bell."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Isto nao eh apenas um sino.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nao e um sino qualquer."
+msgstr "Não e um sino qualquer."
 
 #. STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR
 msgctxt "STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR"
@@ -862,114 +608,59 @@ msgid "The gold makes it sharper."
 msgstr "O ouro deixa mais afiado."
 
 #. STRINGS.RECIPE_DESC.GRASS_UMBRELLA
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.GRASS_UMBRELLA"
 msgid "Posh & portable protection."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protecao luxuosa & portatil.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protecao portatil e gra-fina!"
+msgstr "Proteção portátil e gra-fina!"
 
 #. STRINGS.RECIPE_DESC.SPIDERHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
 msgid "Spiders will call you 'mom'."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"As aranhas te chamaram de mamae.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"As aranhas vao te chamar de 'mamae'."
+msgstr "As aranhas vão te chamar de 'mamãe'."
 
 #. STRINGS.RECIPE_DESC.RUINSHAT
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.RUINSHAT"
 msgid "Complete with ancient force field!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Coberto com um campo de forca antiga!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Completo e com campo de forca ancestral!"
+msgstr "Completo e com campo de forca ancestral!"
 
 #. STRINGS.RECIPE_DESC.ROPE
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ROPE"
 msgid "Tightly woven coils of usefulness."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Uma corda bem tecida com muitas utilidades.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Util e entrelacada com vontade."
+msgstr "Útil e entrelaçada com vontade."
 
 #. STRINGS.RECIPE_DESC.BACKPACK
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.BACKPACK"
 msgid "Carry more stuff."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Transporta mais coisas.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Carregue mais tralha."
+msgstr "Carregue mais tralha."
 
 #. STRINGS.RECIPE_DESC.YELLOWSTAFF
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.YELLOWSTAFF"
 msgid "Summon a tiny star."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Convoca uma estrela minuscula.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Invoque uma estrelinha."
+msgstr "Invoque uma estrelinha."
 
 #. STRINGS.RECIPE_DESC.WALL_RUINS_ITEM
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WALL_RUINS_ITEM"
 msgid "These walls will take quite a beating."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Essas paredes iram tomar uma surra.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Essas paredes vao aguentar bastante."
+msgstr "Essas paredes vão aguentar bastante."
 
 #. STRINGS.RECIPE_DESC.WALL_HAY_ITEM
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.WALL_HAY_ITEM"
 msgid "Hay wall segments. Not very sturdy."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Segmentos de paredes de fenos, Nao eh muito resistente.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Paredes de Palha. Nao sao tao resistentes."
+msgstr "Paredes de Palha. Não são tão resistentes."
 
 #. STRINGS.RECIPE_DESC.EYETURRET_ITEM
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.EYETURRET_ITEM"
 msgid "Keep the nasties away. By killing them."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mantenha o mal distante.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Matenha os bichos longe. Matando eles."
+msgstr "Matenha os bichos longe. Matando eles."
 
 #. STRINGS.RECIPE_DESC.ARMORSLURPER
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.ARMORSLURPER"
 msgid "Keep that belly full."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Se mantenha de barriga cheia.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixe o bucho cheio."
+msgstr "Deixe o bucho cheio."
 
 #. STRINGS.RECIPE_DESC.AMULET
-#, fuzzy
 msgctxt "STRINGS.RECIPE_DESC.AMULET"
 msgid "Protects you from death."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Protege voce da morte.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Te protege da morte."
+msgstr "Te protege da morte."
 
 #. STRINGS.RECIPE_DESC.GOLDENSHOVEL
 msgctxt "STRINGS.RECIPE_DESC.GOLDENSHOVEL"
