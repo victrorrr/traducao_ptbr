@@ -1924,14 +1924,9 @@ msgid "Turn On"
 msgstr "Ligar"
 
 #. STRINGS.ACTIONS.NET
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.NET"
 msgid "Catch"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pegar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Capturar"
+msgstr "Capturar"
 
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
@@ -1939,14 +1934,9 @@ msgid "Activate"
 msgstr "Ativar"
 
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Spelunk\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Explorar Caverna"
+msgstr "Explorar a Caverna"
 
 #. STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
@@ -1959,34 +1949,19 @@ msgid "Investigate"
 msgstr "Investigar"
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
 msgid "Wind"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vento\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Dar Corda"
+msgstr "Vento"
 
 #. STRINGS.ACTIONS.CHECKTRAP
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
 msgid "Check"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Verificar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Checar"
+msgstr "Verificar"
 
 #. STRINGS.ACTIONS.RESETMINE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.RESETMINE"
 msgid "Reset"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Resetar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Re-ativar"
+msgstr "Redefinir"
 
 #. STRINGS.ACTIONS.TURNOFF
 msgctxt "STRINGS.ACTIONS.TURNOFF"
@@ -1994,14 +1969,9 @@ msgid "Turn Off"
 msgstr "Desligar"
 
 #. STRINGS.ACTIONS.PICK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.PICK"
 msgid "Pick"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pegar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Coletar"
+msgstr "Coletar"
 
 #. STRINGS.ACTIONS.SHAVE
 msgctxt "STRINGS.ACTIONS.SHAVE"
@@ -2009,14 +1979,9 @@ msgid "Shave"
 msgstr "Barbear"
 
 #. STRINGS.ACTIONS.WHACK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.WHACK"
 msgid "Whack"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bater\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Golpear"
+msgstr "Golpear"
 
 #. STRINGS.ACTIONS.DRY
 msgctxt "STRINGS.ACTIONS.DRY"
@@ -2034,14 +1999,9 @@ msgid "Sleep"
 msgstr "Dormir"
 
 #. STRINGS.ACTIONS.SMOTHER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.SMOTHER"
 msgid "Extinguish"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Extinguir\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abafar"
+msgstr "Extinguir"
 
 #. STRINGS.ACTIONS.CHOP
 msgctxt "STRINGS.ACTIONS.CHOP"
@@ -2049,14 +2009,9 @@ msgid "Chop"
 msgstr "Cortar"
 
 #. STRINGS.ACTIONS.STORE.GENERIC
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.STORE.GENERIC"
 msgid "Store"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Armazenar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Guardar"
+msgstr "Armazenar"
 
 #. STRINGS.ACTIONS.STORE.COOK
 msgctxt "STRINGS.ACTIONS.STORE.COOK"
@@ -2064,14 +2019,9 @@ msgid "Cook"
 msgstr "Cozinhar"
 
 #. STRINGS.ACTIONS.STORE.IMPRISON
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.STORE.IMPRISON"
 msgid "Imprison"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aprisionar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Prender"
+msgstr "Aprisionar"
 
 #. STRINGS.ACTIONS.MINE
 msgctxt "STRINGS.ACTIONS.MINE"
@@ -2084,34 +2034,19 @@ msgid "Feed"
 msgstr "Alimentar"
 
 #. STRINGS.ACTIONS.CRAFT
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.CRAFT"
 msgid "Craft"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Craft\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Construir"
+msgstr "Construir"
 
 #. STRINGS.ACTIONS.WALKTO
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.WALKTO"
 msgid "Walk To"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Andar ate\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Caminhar Ate"
+msgstr "Caminhar Até"
 
 #. STRINGS.ACTIONS.FAN
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.FAN"
 msgid "Fan"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ventilador\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Leque"
+msgstr "Leque"
 
 #. STRINGS.ACTIONS.LOOKAT
 msgctxt "STRINGS.ACTIONS.LOOKAT"
@@ -2124,24 +2059,14 @@ msgid "Plant"
 msgstr "Plantar"
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
 msgid "Place"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Local\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Local no Chao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar Piso"
+msgstr "Posicionar Piso"
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
@@ -2149,14 +2074,9 @@ msgid "Build Wall"
 msgstr "Construir Parede"
 
 #. STRINGS.ACTIONS.ADDFUEL
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.ADDFUEL"
 msgid "Add Fuel"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Adicionar Combustivel\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Alimentar o Fogo"
+msgstr "Alimentar o Fogo"
 
 #. STRINGS.ACTIONS.RUMMAGE.GENERIC
 msgctxt "STRINGS.ACTIONS.RUMMAGE.GENERIC"
@@ -2174,14 +2094,9 @@ msgid "Dig"
 msgstr "Cavar"
 
 #. STRINGS.ACTIONS.EXTINGUISH
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.EXTINGUISH"
 msgid "Extinguish"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Extinguir\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apagar"
+msgstr "Extinguir"
 
 #. STRINGS.ACTIONS.RESEARCH
 msgctxt "STRINGS.ACTIONS.RESEARCH"
@@ -2194,14 +2109,9 @@ msgid "Use"
 msgstr "Usar"
 
 #. STRINGS.ACTIONS.MANUALEXTINGUISH
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.MANUALEXTINGUISH"
 msgid "Extinguish"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Extinguir\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apagar"
+msgstr "Extinguir"
 
 #. STRINGS.ACTIONS.UNEQUIP
 msgctxt "STRINGS.ACTIONS.UNEQUIP"
@@ -2209,24 +2119,14 @@ msgid "Unequip"
 msgstr "Desequipar"
 
 #. STRINGS.ACTIONS.BLINK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.BLINK"
 msgid "Telepoof"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Telepoof\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Telepuft"
+msgstr "Telepoof"
 
 #. STRINGS.ACTIONS.ADDWETFUEL
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.ADDWETFUEL"
 msgid "Add Wet Fuel"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Adicionar Combustivel Liquido\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Adicionar Combustivel"
+msgstr "Adicionar Combustível Liquido"
 
 #. STRINGS.ACTIONS.DIG
 msgctxt "STRINGS.ACTIONS.DIG"
@@ -2249,54 +2149,29 @@ msgid "Pollinate"
 msgstr "Polinizar"
 
 #. STRINGS.ACTIONS.DROP.GENERIC
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DROP.GENERIC"
 msgid "Drop"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Largar"
+msgstr "Deixar"
 
 #. STRINGS.ACTIONS.DROP.SETTRAP
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DROP.SETTRAP"
 msgid "Set Trap"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Definir Armadilha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Por Armadilha"
+msgstr "Montar Armadilha"
 
 #. STRINGS.ACTIONS.DROP.PLACELANTERN
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DROP.PLACELANTERN"
 msgid "Place"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Local\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.ACTIONS.DROP.SETMINE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DROP.SETMINE"
 msgid "Set Mine"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Definir Mina\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Por Mina"
+msgstr "Definir Mina"
 
 #. STRINGS.ACTIONS.MURDER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.MURDER"
 msgid "Murder"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Assassinar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Matar"
+msgstr "Assassinar"
 
 #. STRINGS.ACTIONS.PICKUP
 msgctxt "STRINGS.ACTIONS.PICKUP"
@@ -2304,34 +2179,19 @@ msgid "Pick up"
 msgstr "Pegar"
 
 #. STRINGS.ACTIONS.CASTSPELL.GENERIC
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.CASTSPELL.GENERIC"
 msgid "Cast Spell"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Feitico Lancado\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lancar Feitico"
+msgstr "Lançar Feitiço"
 
 #. STRINGS.ACTIONS.CASTSPELL.SCIENCE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.CASTSPELL.SCIENCE"
 msgid "Use Gadget"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Usar Dispositivo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Usar Bugiganga"
+msgstr "Usar Bugiganga"
 
 #. STRINGS.ACTIONS.LIGHT
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.LIGHT"
 msgid "Light"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Iluminar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Incendiar"
+msgstr "Iluminar"
 
 #. STRINGS.ACTIONS.GNAW
 msgctxt "STRINGS.ACTIONS.GNAW"
@@ -2349,14 +2209,9 @@ msgid "Fertilize"
 msgstr "Fertilizar"
 
 #. STRINGS.ACTIONS.UPGRADE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.UPGRADE"
 msgid "Upgrade"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Atualizar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aprimorar"
+msgstr "Aprimorar"
 
 #. STRINGS.ACTIONS.BURY
 msgctxt "STRINGS.ACTIONS.BURY"
@@ -2364,24 +2219,14 @@ msgid "Bury"
 msgstr "Enterrar"
 
 #. STRINGS.ACTIONS.COMBINESTACK
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
 msgid "Combine Stack"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Combinar Pilha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Combinar Montes"
+msgstr "Combinar Pilha"
 
 #. STRINGS.ACTIONS.RANGEDSMOTHER
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.RANGEDSMOTHER"
 msgid "Extinguish"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Extinguir\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abafar"
+msgstr "Extinguir"
 
 #. STRINGS.ACTIONS.TAKEITEM
 msgctxt "STRINGS.ACTIONS.TAKEITEM"
@@ -2389,14 +2234,9 @@ msgid "Take Item"
 msgstr "Pegar Item"
 
 #. STRINGS.ACTIONS.GOHOME
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.GOHOME"
 msgid "Go Home"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ir para casa\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ir pra Casa"
+msgstr "Ir para Casa"
 
 #. STRINGS.ACTIONS.TEACH
 msgctxt "STRINGS.ACTIONS.TEACH"
@@ -2434,24 +2274,14 @@ msgid "Plant"
 msgstr "Plantar"
 
 #. STRINGS.ACTIONS.DEPLOY.TURRET
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DEPLOY.TURRET"
 msgid "Place"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lugar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.ACTIONS.DEPLOY.GROUNDTILE
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.DEPLOY.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Coloque no Chao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar Piso"
+msgstr "Posicionar Piso"
 
 #. STRINGS.ACTIONS.DEPLOY.WALL
 msgctxt "STRINGS.ACTIONS.DEPLOY.WALL"
@@ -2459,14 +2289,9 @@ msgid "Build Wall"
 msgstr "Construir Parede"
 
 #. STRINGS.ACTIONS.JUMPIN
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.JUMPIN"
 msgid "Jump In"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pular em\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mergulhar no"
+msgstr "Mergulhar"
 
 #. STRINGS.ACTIONS.HAMMER
 msgctxt "STRINGS.ACTIONS.HAMMER"
@@ -2489,14 +2314,9 @@ msgid "Reel In"
 msgstr "Bobinar"
 
 #. STRINGS.ACTIONS.FISH
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.FISH"
 msgid "Fish"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Peixe\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pescar"
+msgstr "Pescar"
 
 #. STRINGS.ACTIONS.GIVE.GENERIC
 msgctxt "STRINGS.ACTIONS.GIVE.GENERIC"
@@ -2504,24 +2324,14 @@ msgid "Give"
 msgstr "Dar"
 
 #. STRINGS.ACTIONS.GIVE.READY
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.GIVE.READY"
 msgid "Sacrifice"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sacrificio\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sacrificar"
+msgstr "Sacrifício"
 
 #. STRINGS.ACTIONS.GIVE.NOTREADY
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.GIVE.NOTREADY"
 msgid "Place"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lugar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.ACTIONS.EQUIP
 msgctxt "STRINGS.ACTIONS.EQUIP"
@@ -2534,14 +2344,9 @@ msgid "Catch"
 msgstr "Pegar"
 
 #. STRINGS.ACTIONS.PLAY
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.PLAY"
 msgid "Play"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jogar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tocar"
+msgstr "Tocar"
 
 #. STRINGS.ACTIONS.PLANT
 msgctxt "STRINGS.ACTIONS.PLANT"
@@ -2549,34 +2354,19 @@ msgid "Plant"
 msgstr "Plantar"
 
 #. STRINGS.ACTIONS.HARVEST
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.HARVEST"
 msgid "Harvest"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colheita\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colher"
+msgstr "Colher"
 
 #. STRINGS.ACTIONS.RANGEDLIGHT
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.RANGEDLIGHT"
 msgid "Light"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Luz\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Incendiar"
+msgstr "Luz"
 
 #. STRINGS.ACTIONS.REPAIR
-#, fuzzy
 msgctxt "STRINGS.ACTIONS.REPAIR"
 msgid "Repair"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Reparar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Consertar"
+msgstr "Reparar"
 
 #. STRINGS.ACTIONS.COOK
 msgctxt "STRINGS.ACTIONS.COOK"
@@ -2649,14 +2439,9 @@ msgid "Dragonfly"
 msgstr "Dragosca"
 
 #. STRINGS.NAMES.COMPASS
-#, fuzzy
 msgctxt "STRINGS.NAMES.COMPASS"
 msgid "Compass"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bussula\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bussola"
+msgstr "Bússola"
 
 #. STRINGS.NAMES.FROGLEGS_COOKED
 msgctxt "STRINGS.NAMES.FROGLEGS_COOKED"
