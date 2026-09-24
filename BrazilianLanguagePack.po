@@ -1970,24 +1970,14 @@ msgid "Blue Mushroom"
 msgstr "Cogumelo Azul"
 
 #. STRINGS.NAMES.BEEFALOWOOL
-#, fuzzy
 msgctxt "STRINGS.NAMES.BEEFALOWOOL"
 msgid "Beefalo Wool"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"La de Beefalo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"La de Bifalo"
+msgstr "La de Beefalo"
 
 #. STRINGS.NAMES.BERRIES
-#, fuzzy
 msgctxt "STRINGS.NAMES.BERRIES"
 msgid "Berries"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bagas\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Frutinhas"
+msgstr "Frutinhas"
 
 #. STRINGS.NAMES.GOLDENAXE
 msgctxt "STRINGS.NAMES.GOLDENAXE"
@@ -2000,14 +1990,9 @@ msgid "Maxwell's Tooth Trap"
 msgstr "Armadilha Denteada do Maxwell"
 
 #. STRINGS.NAMES.BLUE_CAP
-#, fuzzy
 msgctxt "STRINGS.NAMES.BLUE_CAP"
 msgid "Blue Cap"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bone Azul\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tortulho Azul"
+msgstr "Tortulho Azul"
 
 #. STRINGS.NAMES.SEEDS
 msgctxt "STRINGS.NAMES.SEEDS"
@@ -2030,14 +2015,9 @@ msgid "Cooked Egg"
 msgstr "Pernas de Sapo Cozidas"
 
 #. STRINGS.NAMES.HONEYNUGGETS
-#, fuzzy
 msgctxt "STRINGS.NAMES.HONEYNUGGETS"
 msgid "Honey Nuggets"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fragmentos de Mel\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nuggets com Mel"
+msgstr "Nuggets com Mel"
 
 #. STRINGS.NAMES.BUTTERFLYMUFFIN
 msgctxt "STRINGS.NAMES.BUTTERFLYMUFFIN"
@@ -2065,14 +2045,9 @@ msgid "Blue Mushtree"
 msgstr "Arvore Cogumelo Azul"
 
 #. STRINGS.NAMES.SAPLING
-#, fuzzy
 msgctxt "STRINGS.NAMES.SAPLING"
 msgid "Sapling"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Galhos\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Muda"
+msgstr "Galhos"
 
 #. STRINGS.NAMES.BEARGER
 msgctxt "STRINGS.NAMES.BEARGER"
@@ -2085,14 +2060,9 @@ msgid "Divining Rod Holder"
 msgstr "Apoio para Varinha de Vedor"
 
 #. STRINGS.NAMES.CAMPFIRE
-#, fuzzy
 msgctxt "STRINGS.NAMES.CAMPFIRE"
 msgid "Campfire"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogareu"
+msgstr "Fogueira"
 
 #. STRINGS.NAMES.COOKEDMANDRAKE
 msgctxt "STRINGS.NAMES.COOKEDMANDRAKE"
@@ -2160,14 +2130,9 @@ msgid "Walrus Camp"
 msgstr "Acampamento de Morsa"
 
 #. STRINGS.NAMES.PITCHFORK
-#, fuzzy
 msgctxt "STRINGS.NAMES.PITCHFORK"
 msgid "Pitchfork"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Forcado\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ancinho"
+msgstr "Ancinho"
 
 #. STRINGS.NAMES.EYEBRELLAHAT
 msgctxt "STRINGS.NAMES.EYEBRELLAHAT"
@@ -2180,14 +2145,9 @@ msgid "Pick/Axe"
 msgstr "Pulaski"
 
 #. STRINGS.NAMES.MINERHAT
-#, fuzzy
 msgctxt "STRINGS.NAMES.MINERHAT"
 msgid "Miner Hat"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Chapeu de Mineiro\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Capacete de Minerador"
+msgstr "Capacete de Minerador"
 
 #. STRINGS.NAMES.BUNNYMAN
 msgctxt "STRINGS.NAMES.BUNNYMAN"
@@ -2195,14 +2155,9 @@ msgid "Bunnyman"
 msgstr "Coelhomem"
 
 #. STRINGS.NAMES.RAINOMETER
-#, fuzzy
 msgctxt "STRINGS.NAMES.RAINOMETER"
 msgid "Rainometer"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Rainometro\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Chuvometro"
+msgstr "Chuvometro"
 
 #. STRINGS.NAMES.TALLBIRD
 msgctxt "STRINGS.NAMES.TALLBIRD"
@@ -2270,14 +2225,9 @@ msgid "Broken Relic"
 msgstr "Reliquia Quebrada"
 
 #. STRINGS.NAMES.MEATRACK
-#, fuzzy
 msgctxt "STRINGS.NAMES.MEATRACK"
 msgid "Drying Rack"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cavalete de Secagem\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Varal de Carne"
+msgstr "Varal de Carne"
 
 #. STRINGS.NAMES.ARMORWOOD
 msgctxt "STRINGS.NAMES.ARMORWOOD"
@@ -2310,14 +2260,9 @@ msgid "Obelisk"
 msgstr "Obelisco"
 
 #. STRINGS.NAMES.GREEN_MUSHROOM
-#, fuzzy
 msgctxt "STRINGS.NAMES.GREEN_MUSHROOM"
 msgid "Green Mushroom"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cogumelo Verde\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cogumelho Verde"
+msgstr "Cogumelo Verde"
 
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_TRIPLE"
@@ -2325,24 +2270,14 @@ msgid "Light Flower"
 msgstr "Flor de Luz"
 
 #. STRINGS.NAMES.RED_MUSHROOM
-#, fuzzy
 msgctxt "STRINGS.NAMES.RED_MUSHROOM"
 msgid "Red Mushroom"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cogumelo Vermelho\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cogumelho Vermelho"
+msgstr "Cogumelo Vermelho"
 
 #. STRINGS.NAMES.LOG
-#, fuzzy
 msgctxt "STRINGS.NAMES.LOG"
 msgid "Log"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tronco\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lenha"
+msgstr "Lenha"
 
 #. STRINGS.NAMES.FIREFLIES
 msgctxt "STRINGS.NAMES.FIREFLIES"
@@ -2390,14 +2325,9 @@ msgid "Bush Hat"
 msgstr "Chapeu de Arbusto"
 
 #. STRINGS.NAMES.GOLDENSHOVEL
-#, fuzzy
 msgctxt "STRINGS.NAMES.GOLDENSHOVEL"
 msgid "Regal Shovel"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pa Eficiente\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pa Imperial"
+msgstr "Pa Imperial"
 
 #. STRINGS.NAMES.GLOMMER
 msgctxt "STRINGS.NAMES.GLOMMER"
@@ -2405,14 +2335,9 @@ msgid "Glommer"
 msgstr "Glommer"
 
 #. STRINGS.NAMES.ROCK_ICE
-#, fuzzy
 msgctxt "STRINGS.NAMES.ROCK_ICE"
 msgid "Mini Glacier"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pequena Geleira\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mini Geleira"
+msgstr "Mini Geleira"
 
 #. STRINGS.NAMES.WINTEROMETER
 msgctxt "STRINGS.NAMES.WINTEROMETER"
@@ -2420,14 +2345,9 @@ msgid "Thermal Measurer"
 msgstr "Medidor Termico"
 
 #. STRINGS.NAMES.COOKPOT
-#, fuzzy
 msgctxt "STRINGS.NAMES.COOKPOT"
 msgid "Crock Pot"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Panela de Barro\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Panela Velha"
+msgstr "Panela Velha"
 
 #. STRINGS.NAMES.WALL_STONE_ITEM
 msgctxt "STRINGS.NAMES.WALL_STONE_ITEM"
@@ -2540,14 +2460,9 @@ msgid "Smallish Tallbird"
 msgstr "Passaralto Pequenino"
 
 #. STRINGS.NAMES.PINECONE_SAPLING
-#, fuzzy
 msgctxt "STRINGS.NAMES.PINECONE_SAPLING"
 msgid "Evergreen Sapling"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Galhos de Pinheiro Evergreen\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Muda de Arvore Perene"
+msgstr "Muda de Arvore Perene"
 
 #. STRINGS.NAMES.TURF_FUNGUS
 msgctxt "STRINGS.NAMES.TURF_FUNGUS"
@@ -2560,14 +2475,9 @@ msgid "Thulecite Wall"
 msgstr "Muro de Tulecite"
 
 #. STRINGS.NAMES.HEATROCK
-#, fuzzy
 msgctxt "STRINGS.NAMES.HEATROCK"
 msgid "Thermal Stone"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra Termal\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra Termica"
+msgstr "Pedra Térmica"
 
 #. STRINGS.NAMES.TRINKET_10
 msgctxt "STRINGS.NAMES.TRINKET_10"
@@ -2575,14 +2485,9 @@ msgid "Second-hand Dentures"
 msgstr "Dentadura Usada"
 
 #. STRINGS.NAMES.PURPLEGEM
-#, fuzzy
 msgctxt "STRINGS.NAMES.PURPLEGEM"
 msgid "Purple Gem"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Gema Roxa\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Gema Purpura"
+msgstr "Gema Purpura"
 
 #. STRINGS.NAMES.MOUND
 msgctxt "STRINGS.NAMES.MOUND"
@@ -2590,14 +2495,9 @@ msgid "Grave"
 msgstr "Tumulo"
 
 #. STRINGS.NAMES.BEDROLL_STRAW
-#, fuzzy
 msgctxt "STRINGS.NAMES.BEDROLL_STRAW"
 msgid "Straw Roll"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Rolo de Palha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Saco de Dormir"
+msgstr "Saco de Dormir"
 
 #. STRINGS.NAMES.TURF_FUNGUS_RED
 msgctxt "STRINGS.NAMES.TURF_FUNGUS_RED"
@@ -2631,14 +2531,9 @@ msgid "Monster Lasagna"
 msgstr "Lasanha-Monstro"
 
 #. STRINGS.NAMES.FAST_FARMPLOT
-#, fuzzy
 msgctxt "STRINGS.NAMES.FAST_FARMPLOT"
 msgid "Improved Farm"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fazenda Melhorada\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fazenda Aprimorada"
+msgstr "Fazenda Aprimorada"
 
 #. STRINGS.NAMES.WALRUS
 msgctxt "STRINGS.NAMES.WALRUS"
@@ -2721,14 +2616,9 @@ msgid "Maxwell's Light"
 msgstr "Lanterna do Maxwell"
 
 #. STRINGS.NAMES.RAZOR
-#, fuzzy
 msgctxt "STRINGS.NAMES.RAZOR"
 msgid "Razor"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Navalha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lamina de Barbear"
+msgstr "Lamina de Barbear"
 
 #. STRINGS.NAMES.TREASURECHEST
 msgctxt "STRINGS.NAMES.TREASURECHEST"
@@ -2771,14 +2661,9 @@ msgid "Fire Staff"
 msgstr "Cajado de fogo"
 
 #. STRINGS.NAMES.FIRESUPPRESSOR
-#, fuzzy
 msgctxt "STRINGS.NAMES.FIRESUPPRESSOR"
 msgid "Ice Flingomatic"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Maquina de Gelo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nevastador de Incendios"
+msgstr "Nevastador de Incendios"
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
@@ -2861,14 +2746,9 @@ msgid "Pumpkin"
 msgstr "Abobora"
 
 #. STRINGS.NAMES.POOP
-#, fuzzy
 msgctxt "STRINGS.NAMES.POOP"
 msgid "Manure"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Estrume\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esterco"
+msgstr "Esterco"
 
 #. STRINGS.NAMES.LIGHTNING_ROD
 msgctxt "STRINGS.NAMES.LIGHTNING_ROD"
@@ -3031,14 +2911,9 @@ msgid "Crawling Nightmare"
 msgstr "Pesadelo Rastejante"
 
 #. STRINGS.NAMES.DIVININGROD
-#, fuzzy
 msgctxt "STRINGS.NAMES.DIVININGROD"
 msgid "Divining Rod"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vara Divina\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Varinha de Vedor"
+msgstr "Varinha de Vedor"
 
 #. STRINGS.NAMES.RABBIT
 msgctxt "STRINGS.NAMES.RABBIT"
@@ -3131,24 +3006,14 @@ msgid "Deeper"
 msgstr "Mais a Fundo"
 
 #. STRINGS.NAMES.CUTSTONE
-#, fuzzy
 msgctxt "STRINGS.NAMES.CUTSTONE"
 msgid "Cut Stone"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra Cortada\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra Lapidada"
+msgstr "Pedra Lapidada"
 
 #. STRINGS.NAMES.GOLDENPICKAXE
-#, fuzzy
 msgctxt "STRINGS.NAMES.GOLDENPICKAXE"
 msgid "Opulent Pickaxe"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Picareta Oponente\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Picareta Profusa"
+msgstr "Picareta Profusa"
 
 #. STRINGS.NAMES.FROG
 msgctxt "STRINGS.NAMES.FROG"
@@ -3201,24 +3066,14 @@ msgid "Rain Coat"
 msgstr "Capa de Chuva"
 
 #. STRINGS.NAMES.TALLBIRDNEST
-#, fuzzy
 msgctxt "STRINGS.NAMES.TALLBIRDNEST"
 msgid "Tallbird Nest"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ninho de Tallbird\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ninho de Passaralto"
+msgstr "Ninho de Passaralto"
 
 #. STRINGS.NAMES.FEATHERFAN
-#, fuzzy
 msgctxt "STRINGS.NAMES.FEATHERFAN"
 msgid "Luxury Fan"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vesntilador de Luxo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Leque de Luxo"
+msgstr "Leque de Luxo"
 
 #. STRINGS.NAMES.DURIAN
 msgctxt "STRINGS.NAMES.DURIAN"
@@ -3231,24 +3086,14 @@ msgid "Fish Tacos"
 msgstr "Tacos de Pescado"
 
 #. STRINGS.NAMES.PUMPKIN_LANTERN
-#, fuzzy
 msgctxt "STRINGS.NAMES.PUMPKIN_LANTERN"
 msgid "Pumpkin Lantern"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lanterna de Abobora\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lampiao-Abobora"
+msgstr "Lampiao-Abobora"
 
 #. STRINGS.NAMES.TRINKET_8
-#, fuzzy
 msgctxt "STRINGS.NAMES.TRINKET_8"
 msgid "Hardened Rubber Bung"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Rolha de Borracha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tampao de Borracha"
+msgstr "Tampão de Borracha"
 
 #. STRINGS.NAMES.SPIDER
 msgctxt "STRINGS.NAMES.SPIDER"
@@ -3266,14 +3111,9 @@ msgid "Snurtle"
 msgstr "Tartaramujo"
 
 #. STRINGS.NAMES.NITRE
-#, fuzzy
 msgctxt "STRINGS.NAMES.NITRE"
 msgid "Nitre"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Enxofre\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nitro"
+msgstr "Nitro"
 
 #. STRINGS.NAMES.GLOMMERFUEL
 msgctxt "STRINGS.NAMES.GLOMMERFUEL"
@@ -3416,14 +3256,9 @@ msgid "Stalagmite"
 msgstr "Estalagmite"
 
 #. STRINGS.NAMES.COLDFIREPIT
-#, fuzzy
 msgctxt "STRINGS.NAMES.COLDFIREPIT"
 msgid "Endothermic Fire Pit"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira Endotermica de Pedras\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira Endotermica"
+msgstr "Fogueira Endotermica"
 
 #. STRINGS.NAMES.TENTACLE_GARDEN
 msgctxt "STRINGS.NAMES.TENTACLE_GARDEN"
@@ -3561,14 +3396,9 @@ msgid "Ancient statue"
 msgstr "Estatua antiga"
 
 #. STRINGS.NAMES.FLINT
-#, fuzzy
 msgctxt "STRINGS.NAMES.FLINT"
 msgid "Flint"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Silex\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pederneira"
+msgstr "Pederneira"
 
 #. STRINGS.NAMES.BONESTEW
 msgctxt "STRINGS.NAMES.BONESTEW"
@@ -3636,14 +3466,9 @@ msgid "Hibearnation Vest"
 msgstr "RecUrso de Hibernacao."
 
 #. STRINGS.NAMES.ROCK_ICE_MELTED
-#, fuzzy
 msgctxt "STRINGS.NAMES.ROCK_ICE_MELTED"
 msgid "Melted Mini Glacier"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pequena Geleira Derretida\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mini Geleira Degelada"
+msgstr "Mini Geleira Degelada"
 
 #. STRINGS.NAMES.KNIGHT_NIGHTMARE
 msgctxt "STRINGS.NAMES.KNIGHT_NIGHTMARE"
@@ -3711,14 +3536,9 @@ msgid "Willow"
 msgstr "Willow"
 
 #. STRINGS.NAMES.FERTILIZER
-#, fuzzy
 msgctxt "STRINGS.NAMES.FERTILIZER"
 msgid "Bucket-o-poop"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Balde de Coco\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bal'de Fezes"
+msgstr "Bal'de Fezes"
 
 #. STRINGS.NAMES.ROBIN
 msgctxt "STRINGS.NAMES.ROBIN"
@@ -3726,14 +3546,9 @@ msgid "Redbird"
 msgstr "Passaro Vermelho"
 
 #. STRINGS.NAMES.RESEARCHLAB2
-#, fuzzy
 msgctxt "STRINGS.NAMES.RESEARCHLAB2"
 msgid "Alchemy Engine"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Maquina de Alquemia\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Maquina Alquimica"
+msgstr "Maquina Alquímica"
 
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
@@ -3801,14 +3616,9 @@ msgid "Webber"
 msgstr "Webber"
 
 #. STRINGS.NAMES.BANDAGE
-#, fuzzy
 msgctxt "STRINGS.NAMES.BANDAGE"
 msgid "Honey Poultice"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mel Polinizado\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Compressa de Mel"
+msgstr "Compressa de Mel"
 
 #. STRINGS.NAMES.MOLEHAT
 msgctxt "STRINGS.NAMES.MOLEHAT"
@@ -3826,14 +3636,9 @@ msgid "Ice Cube"
 msgstr "Cubo de Gelo"
 
 #. STRINGS.NAMES.GRASS_UMBRELLA
-#, fuzzy
 msgctxt "STRINGS.NAMES.GRASS_UMBRELLA"
 msgid "Pretty Parasol"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parasol Florido\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sombrinha Bonita"
+msgstr "Sombrinha Bonita"
 
 #. STRINGS.NAMES.RAINHAT
 msgctxt "STRINGS.NAMES.RAINHAT"
@@ -3921,14 +3726,9 @@ msgid "Birchnutter"
 msgstr "Mamona Assassina"
 
 #. STRINGS.NAMES.LANTERN
-#, fuzzy
 msgctxt "STRINGS.NAMES.LANTERN"
 msgid "Lantern"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lanterna\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lampiao"
+msgstr "Lampião"
 
 #. STRINGS.NAMES.TRINKET_9
 msgctxt "STRINGS.NAMES.TRINKET_9"
@@ -4096,14 +3896,9 @@ msgid "Pumpkin Seeds"
 msgstr "Sementes de Abobora"
 
 #. STRINGS.NAMES.EVERGREEN
-#, fuzzy
 msgctxt "STRINGS.NAMES.EVERGREEN"
 msgid "Evergreen"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pinheiro Evergreen\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Arvore Perene"
+msgstr "Arvore Perene"
 
 #. STRINGS.NAMES.SKULLCHEST
 msgctxt "STRINGS.NAMES.SKULLCHEST"
@@ -4151,14 +3946,9 @@ msgid "Carrot"
 msgstr "Cenoura"
 
 #. STRINGS.NAMES.DUG_BERRYBUSH
-#, fuzzy
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH"
 msgid "Berry Bush"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Arbusto Baga\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Moita de Frutinhas"
+msgstr "Moita de Frutinhas"
 
 #. STRINGS.NAMES.TURKEYDINNER
 msgctxt "STRINGS.NAMES.TURKEYDINNER"
@@ -4176,14 +3966,9 @@ msgid "Dangling Depth Dweller"
 msgstr "Penduranha das Profundezas"
 
 #. STRINGS.NAMES.PAPYRUS
-#, fuzzy
 msgctxt "STRINGS.NAMES.PAPYRUS"
 msgid "Papyrus"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Papeis\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Papiro"
+msgstr "Papiro"
 
 #. STRINGS.NAMES.ROOK_NIGHTMARE
 msgctxt "STRINGS.NAMES.ROOK_NIGHTMARE"
@@ -4401,14 +4186,9 @@ msgid "Lightning"
 msgstr "Relampago"
 
 #. STRINGS.NAMES.HEALINGSALVE
-#, fuzzy
 msgctxt "STRINGS.NAMES.HEALINGSALVE"
 msgid "Healing Salve"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cura Cicatrizes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Balsamo Restaurador"
+msgstr "Balsamo Restaurador"
 
 #. STRINGS.NAMES.TREASURECHEST_TRAP
 msgctxt "STRINGS.NAMES.TREASURECHEST_TRAP"
@@ -4511,14 +4291,9 @@ msgid "The Lazy Explorer"
 msgstr "Explorador Preguicoso"
 
 #. STRINGS.NAMES.GEMSOCKET
-#, fuzzy
 msgctxt "STRINGS.NAMES.GEMSOCKET"
 msgid "Gem Stand"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Suporte de Gema\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Estande de Gema"
+msgstr "Estande de Gema"
 
 #. STRINGS.NAMES.SLOW_FARMPLOT
 msgctxt "STRINGS.NAMES.SLOW_FARMPLOT"
@@ -4606,14 +4381,9 @@ msgid "Darkness"
 msgstr "Escuridao"
 
 #. STRINGS.NAMES.SPIDERGLAND
-#, fuzzy
 msgctxt "STRINGS.NAMES.SPIDERGLAND"
 msgid "Spider Gland"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Grandula de Aranha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Glandula de Aranha"
+msgstr "Glandula de Aranha"
 
 #. STRINGS.NAMES.WALL_WOOD_ITEM
 msgctxt "STRINGS.NAMES.WALL_WOOD_ITEM"
@@ -4626,14 +4396,9 @@ msgid "Sick Worm Hole"
 msgstr "Buraco de Verme Doente"
 
 #. STRINGS.NAMES.WORMHOLE
-#, fuzzy
 msgctxt "STRINGS.NAMES.WORMHOLE"
 msgid "Worm Hole"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Buraco de Minhoca\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Buraco de Verme"
+msgstr "Buraco de Verme"
 
 #. STRINGS.NAMES.SMALLMEAT_DRIED
 msgctxt "STRINGS.NAMES.SMALLMEAT_DRIED"
@@ -4696,14 +4461,9 @@ msgid "Maxwell's Phonograph"
 msgstr "Vitrola do Maxwell"
 
 #. STRINGS.NAMES.GRAVESTONE
-#, fuzzy
 msgctxt "STRINGS.NAMES.GRAVESTONE"
 msgid "Headstone"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra Tumular\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lapide"
+msgstr "Lapide"
 
 #. STRINGS.NAMES.BACONEGGS
 msgctxt "STRINGS.NAMES.BACONEGGS"
@@ -4781,14 +4541,9 @@ msgid "Grass Tuft"
 msgstr "Tufo de Grama"
 
 #. STRINGS.NAMES.ROCKS
-#, fuzzy
 msgctxt "STRINGS.NAMES.ROCKS"
 msgid "Rocks"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedregulhos\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Rochas"
+msgstr "Rochas"
 
 #. STRINGS.NAMES.WENDY
 msgctxt "STRINGS.NAMES.WENDY"
@@ -4856,14 +4611,9 @@ msgid "Backpack"
 msgstr "Mochila"
 
 #. STRINGS.NAMES.RABBITHOLE
-#, fuzzy
 msgctxt "STRINGS.NAMES.RABBITHOLE"
 msgid "Rabbit Hole"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Buraco de Coelho\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Toca de Coelho"
+msgstr "Toca de Coelho"
 
 #. STRINGS.NAMES.TALLBIRDEGG
 msgctxt "STRINGS.NAMES.TALLBIRDEGG"
@@ -4906,14 +4656,9 @@ msgid "Eye Bone"
 msgstr "Osso Ocular"
 
 #. STRINGS.NAMES.BEEBOX
-#, fuzzy
 msgctxt "STRINGS.NAMES.BEEBOX"
 msgid "Bee Box"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Caixa de Abelha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apiario"
+msgstr "Apiário"
 
 #. STRINGS.NAMES.MARSH_TREE
 msgctxt "STRINGS.NAMES.MARSH_TREE"
@@ -4951,24 +4696,14 @@ msgid "Pomegranate"
 msgstr "Roma"
 
 #. STRINGS.NAMES.UMBRELLA
-#, fuzzy
 msgctxt "STRINGS.NAMES.UMBRELLA"
 msgid "Umbrella"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Guarda Chuva\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Guarda-Chuva"
+msgstr "Guarda-Chuva"
 
 #. STRINGS.NAMES.RESEARCHLAB
-#, fuzzy
 msgctxt "STRINGS.NAMES.RESEARCHLAB"
 msgid "Science Machine"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Maquina da Ciencia\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Maquina de Ciencia"
+msgstr "Maquina de Ciência"
 
 #. STRINGS.NAMES.DUG_BERRYBUSH2
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH2"
@@ -4986,14 +4721,9 @@ msgid "Gold Nugget"
 msgstr "Pepita de Ouro"
 
 #. STRINGS.NAMES.BEDROLL_FURRY
-#, fuzzy
 msgctxt "STRINGS.NAMES.BEDROLL_FURRY"
 msgid "Fur Roll"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Rolo de Peles\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Saco de Pele"
+msgstr "Saco de Pele"
 
 #. STRINGS.NAMES.RESEARCHLAB3
 msgctxt "STRINGS.NAMES.RESEARCHLAB3"
@@ -5031,34 +4761,19 @@ msgid "Marble Suit"
 msgstr "Armadura de Marmore"
 
 #. STRINGS.NAMES.TRANSISTOR
-#, fuzzy
 msgctxt "STRINGS.NAMES.TRANSISTOR"
 msgid "Electrical Doodad"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Peca Eletrica\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Enfeite Eletrico"
+msgstr "Enfeite Elétrico"
 
 #. STRINGS.NAMES.SIESTAHUT
-#, fuzzy
 msgctxt "STRINGS.NAMES.SIESTAHUT"
 msgid "Siesta Lean-to"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Telhado de Siesta\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abrigo de Sesta"
+msgstr "Abrigo de Sesta"
 
 #. STRINGS.NAMES.SPIDERDEN
-#, fuzzy
 msgctxt "STRINGS.NAMES.SPIDERDEN"
 msgid "Spider Den"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ninho de Aranha\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ninho de Aranhas"
+msgstr "Ninho de Aranhas"
 
 #. STRINGS.NAMES.BEEFALO
 msgctxt "STRINGS.NAMES.BEEFALO"
@@ -5081,14 +4796,9 @@ msgid "Obelisk"
 msgstr "Obelisco"
 
 #. STRINGS.NAMES.ROCK2
-#, fuzzy
 msgctxt "STRINGS.NAMES.ROCK2"
 msgid "Boulder"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedra\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pedregulho"
+msgstr "Pedregulho"
 
 #. STRINGS.NAMES.SUNKBOAT
 msgctxt "STRINGS.NAMES.SUNKBOAT"
@@ -5116,24 +4826,14 @@ msgid "Deadly Feast"
 msgstr "Banquete Mortal"
 
 #. STRINGS.NAMES.FIREPIT
-#, fuzzy
 msgctxt "STRINGS.NAMES.FIREPIT"
 msgid "Fire Pit"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira de Pedras\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira"
+msgstr "Fogueira"
 
 #. STRINGS.NAMES.COLDFIRE
-#, fuzzy
 msgctxt "STRINGS.NAMES.COLDFIRE"
 msgid "Endothermic Fire"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogueira Endotermica\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fogo Endotermico"
+msgstr "Fogo Endotérmico"
 
 #. STRINGS.NAMES.TELEPORTATO_CHECKMATE
 msgctxt "STRINGS.NAMES.TELEPORTATO_CHECKMATE"
@@ -5338,14 +5038,9 @@ msgid "Withered"
 msgstr "Murcho"
 
 #. STRINGS.CHARACTER_TITLES.wilson
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.wilson"
 msgid "The Gentleman Scientist"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Cientista Cavalheiro\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Cientista Nobre"
+msgstr "O Cientista Nobre"
 
 #. STRINGS.CHARACTER_TITLES.wendy
 msgctxt "STRINGS.CHARACTER_TITLES.wendy"
@@ -5353,24 +5048,14 @@ msgid "The Bereaved"
 msgstr "A Enlutada"
 
 #. STRINGS.CHARACTER_TITLES.webber
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.webber"
 msgid "The Indigestible"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Indigestivel\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Indigesto"
+msgstr "O Indigesto"
 
 #. STRINGS.CHARACTER_TITLES.willow
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.willow"
 msgid "The Firestarter"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"A Incendiaria\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"A Piromaniaca"
+msgstr "A Piromaniaca"
 
 #. STRINGS.CHARACTER_TITLES.waxwell
 msgctxt "STRINGS.CHARACTER_TITLES.waxwell"
@@ -5383,26 +5068,16 @@ msgid "The Librarian"
 msgstr "A Bibliotecaria"
 
 #. STRINGS.CHARACTER_TITLES.wolfgang
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.wolfgang"
 msgid "The Strongman"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Fortao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Parrudo"
+msgstr "O Parrudo"
 
 #. STRINGS.CHARACTER_TITLES.woodie
 #. STRINGS.CHARACTER_TITLES.wathgrithr
 #. STRINGS.CHARACTER_TITLES.wathgrithr
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.wathgrithr"
 msgid "The Performance Artist"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Lenhador\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"A Artista Performatica"
+msgstr "A Artista performática"
 
 #. STRINGS.CHARACTER_TITLES.wes
 msgctxt "STRINGS.CHARACTER_TITLES.wes"
@@ -5410,14 +5085,9 @@ msgid "The Silent"
 msgstr "O Silencioso"
 
 #. STRINGS.CHARACTER_TITLES.wx78
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_TITLES.wx78"
 msgid "The Soulless Automaton"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Automato Sem Alma\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O Automato Desalmado"
+msgstr "O Autômato Desalmado"
 
 #. STRINGS.RABBIT_GIVEUP.1
 msgctxt "STRINGS.RABBIT_GIVEUP.1"
@@ -13584,10 +13254,7 @@ msgstr "Parece fragil."
 #, fuzzy
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.COOKEDMANDRAKE"
 msgid "It was a good death. He will be delicious."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ele parece estar quase morto de medo."
+msgstr "Ele parece estar quase morto de medo."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEGEM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEGEM"
@@ -13607,12 +13274,12 @@ msgstr "Pelo menos cavar isso com estilo."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_6
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_6"
 msgid "Once alive with electricity, they've met their end."
-msgstr ""
+msgstr "Outrora vívidos de eletricidade, eles encontraram o seu fim."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_5
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_5"
 msgid "I'd fly this straight into the sun, if only it was bigger."
-msgstr ""
+msgstr "Eu voaria com isso direto para o sol, se ao menos fosse maior."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUEMAXWELL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.STATUEMAXWELL"
@@ -13625,13 +13292,9 @@ msgid "Not very attractive."
 msgstr "Nada atraente."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_4
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_4"
 msgid "I'd carry this to the end of the world."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O mundo vai acabar em fogo e tribulacao!"
+msgstr "O mundo vai acabar em fogo e tribulacao!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FLINT"
@@ -13641,12 +13304,12 @@ msgstr "Uma pedra afiada."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_3
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_3"
 msgid "If only knives solved more of my problems..."
-msgstr ""
+msgstr "Se ao menos as facas resolvessem mais dos meus problemas..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_2
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TRINKET_2"
 msgid "It's a fake. Just a temptation, like death."
-msgstr ""
+msgstr "É uma farsa. Apenas uma tentação, como a morte."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_ROBIN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_ROBIN"
@@ -13666,7 +13329,7 @@ msgstr "Nao esta aguentando o calor."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.COLD"
 msgid "Chilled by the darkness."
-msgstr "Morrendo de frio por conta da escuridao."
+msgstr "Chilled by the darkness."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT"
@@ -13686,7 +13349,7 @@ msgstr "Nao vai me proteger dos demonios interiores."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ACCOMPLISHMENT_SHRINE"
 msgid "I've never much cared for metaphor."
-msgstr ""
+msgstr "Eu nunca liguei muito para metáfora..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CUTREEDS"
@@ -13701,7 +13364,7 @@ msgstr "Talvez com isto, eu adie o inevitavel um pouco mais."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TREASURECHEST"
 msgid "For which to contain my lucre."
-msgstr ""
+msgstr "No qual guardarei meus espólios."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FOREST
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FOREST"
@@ -13721,7 +13384,7 @@ msgstr "Tudo bom, criatura imunda do submundo?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RATATOUILLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RATATOUILLE"
 msgid "A whole bunch of cooked vegetables. Riveting."
-msgstr ""
+msgstr "Um monte de legumes cozidos. Fascinante."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.FULL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGHOUSE.FULL"
@@ -13844,18 +13507,14 @@ msgid "Be still, little one."
 msgstr "Fica quietinha."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DURIAN_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DURIAN_COOKED"
 msgid "Less spiky, but even smellier!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Agora que ela nao gela mesmo."
+msgstr "Agora que ela não gela mesmo."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TENT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TENT"
 msgid "Sleep is but a preview of death."
-msgstr ""
+msgstr "O sono é apenas um ensaio para a morte."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING"
@@ -13885,7 +13544,7 @@ msgstr "Eu duvido que vai me ajudar mais do que ajudou o ultimo dono."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE_SEEDS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE_SEEDS"
 msgid "I was expecting more seeds than this from that thing."
-msgstr ""
+msgstr "Eu esperava mais sementes do que isso vindo daquela coisa."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_BOX
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_BOX"
@@ -13935,7 +13594,7 @@ msgstr "Fica quietinha."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.BACONEGGS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.BACONEGGS"
 msgid "A balanced breakfast to start another miserable day."
-msgstr ""
+msgstr "Um café da manhã balanceado para começar outro dia miserável..."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.STUFFEDEGGPLANT
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.STUFFEDEGGPLANT"
@@ -14031,7 +13690,7 @@ msgstr "Hora de olhar detidamente para o abismo."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_HAY
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.WALL_HAY"
 msgid "That is the mere suggestion of defense."
-msgstr ""
+msgstr "Isso não passa de uma mera sugestão de defesa."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK"
@@ -14067,7 +13726,7 @@ msgstr "Se queima à beca, queima com pressa."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.COLD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.COLD"
 msgid "As cold and lifeless as every other rock."
-msgstr ""
+msgstr "Tão fria e sem vida quanto qualquer outra pedra."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLMEAT_DRIED"
@@ -14143,7 +13802,7 @@ msgstr "Me pergunto o que ele fez."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RESURRECTIONSTATUE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RESURRECTIONSTATUE"
 msgid "I'm just putting off the inevitable."
-msgstr ""
+msgstr "Estou apenas adiando o inevitável."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SHOVEL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SHOVEL"
@@ -14173,7 +13832,7 @@ msgstr "Isso era algo antes de ser queimado."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ASH.REMAINS_EYE_BONE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ASH.REMAINS_EYE_BONE"
 msgid "The eyebone was consumed by fire when I teleported!"
-msgstr ""
+msgstr "O Osso Ocular foi consumido pelas chamas quando me teletransportei!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SEEDS
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SEEDS"
@@ -15259,13 +14918,9 @@ msgid "Kill the pig. Spill his blood."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE"
 msgid "So many juicy red bits to chomp and squish!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Um monte de bolinhas vermelhhas para mascar e esmagar!"
+msgstr "Um monte de bolinhas vermelhhas para mascar e esmagar!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.UMBRELLA"
@@ -16130,7 +15785,7 @@ msgstr "PRODUTO ALIMENTICIO MELHORADO"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RABBITHOUSE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABBITHOUSE"
 msgid "THAT IS ONE LARGE CARROT"
-msgstr ""
+msgstr "UMA CENOURA DE TAMANHO CONSIDERÁVEL"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FRUITMEDLEY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FRUITMEDLEY"
@@ -16495,7 +16150,7 @@ msgstr "ESTE TUBO DE CARNE SERVIRA MEUS PROPOSITOS"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WINTEROMETER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WINTEROMETER"
 msgid "HELLO, FRIEND."
-msgstr ""
+msgstr "OLA, AMIGO."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITOSACK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MOSQUITOSACK"
@@ -16550,7 +16205,7 @@ msgstr "EU NAO GOSTO DO JEITO DELE"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4"
 msgid "WITH THIS EXTRA POWER I HAVE... MORE POWER!"
-msgstr ""
+msgstr "COM ESSE PODER EXTRA EU TENHO... MAIS PODER!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.LIGHTBULB
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.LIGHTBULB"
@@ -16610,7 +16265,7 @@ msgstr "RESIDUO DE DEPURAÇAO"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_WOOD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_WOOD"
 msgid "I AM SOMEWHAT REASSURED"
-msgstr ""
+msgstr "ESTOU PARCIALMENTE TRANQUILIZADO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.GEMSOCKET.VALID
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.GEMSOCKET.VALID"
@@ -17010,7 +16665,7 @@ msgstr "TRONCO"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TREASURECHEST"
 msgid "EXTERNAL STORAGE UNIT"
-msgstr ""
+msgstr "UNIDADE DE ARMAZANAMENTO "
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH"
@@ -17105,12 +16760,12 @@ msgstr "E VIOLENTAMENTE VISCOSO"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RAINOMETER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RAINOMETER"
 msgid "WELCOME, BROTHER."
-msgstr ""
+msgstr "BEM VINDO, IRMÃO!"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TENT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TENT"
 msgid "I CAN REBOOT IN THERE"
-msgstr ""
+msgstr "EU POSSO REINICIAR LÁ DENTRO"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.POTTEDFERN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.POTTEDFERN"
@@ -17150,7 +16805,7 @@ msgstr "ISTO PROVAVELMENTE QUEIMARIA MEUS CIRCUITOS"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HOMESIGN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HOMESIGN"
 msgid "YOU ARE HERE."
-msgstr ""
+msgstr "VOCÊ ESTA AQUI."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BLUEAMULET
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BLUEAMULET"
@@ -17250,7 +16905,7 @@ msgstr "ISTO COBRIRA MINHA UNIDADE DE PROCESSAMENTO"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY"
 msgid "THAT SEEMS SUBOPTIMAL"
-msgstr ""
+msgstr "ISSO PARECE INEFICIENTE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.STATUEHARP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.STATUEHARP"
@@ -18906,13 +18561,9 @@ msgid "I misjudged the timing of its return."
 msgstr "Eu errei ao analisar o tempo de seu retorno."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NODANGERSLEEP
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_NODANGERSLEEP"
 msgid "I can barely sleep even when I'm not in danger!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mal posso dormir mesmo quando estou sem fome!"
+msgstr "Mal posso dormir mesmo quando estou sem fome!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_UNIMPLEMENTED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_UNIMPLEMENTED"
@@ -18935,13 +18586,9 @@ msgid "I can barely sleep even when I'm not starving!"
 msgstr "Mal posso dormir mesmo quando estou sem fome!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC"
 msgid "It is a magitechnical homing device."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E algum tipo de aparelho orientador."
+msgstr "E algum tipo de aparelho orientador."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.HOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.HOT"
@@ -19004,13 +18651,9 @@ msgid "A detailed technical drawing."
 msgstr "Um detalhado desenho tecnico."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGLEGS_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGLEGS_COOKED"
 msgid "Not unlike a chicken wing."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Asa de Morcelisco"
+msgstr "Asa de Morcelisco"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEPLETED_GRASS.GENERIC"
@@ -19288,13 +18931,9 @@ msgid "Also known as saltpeter."
 msgstr "Tambem conhecido como salitre."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENAXE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENAXE"
 msgid "The most malleable of metals, but let's see how this chops."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O mais maleavel dos metais, mas vejamos como isto minera."
+msgstr "O mais maleavel dos metais, mas vejamos como isto minera."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH_MAXWELL"
@@ -19357,13 +18996,9 @@ msgid "Sadly, it is just painted to look like a carrot."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRUITMEDLEY
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FRUITMEDLEY"
 msgid "What a nice selection of fruit!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Que fruta esquisita."
+msgstr "Que fruta esquisita."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLE"
@@ -19454,13 +19089,9 @@ msgid "My word! A huge Mycena silvaelucens."
 msgstr "Uma enorme Mycena silvaelucens. E tenho dito!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE_PILLAR_ARM
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE_PILLAR_ARM"
 msgid "A tiny horror waiting in the mud."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Um terror que espreita na lama."
+msgstr "Um terror que espreita na lama."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINOTAURHORN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINOTAURHORN"
@@ -19476,13 +19107,9 @@ msgid "Surprisingly effective with enough layers."
 msgstr "Impressionantemente efetivo com camadas o suficiente."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE"
 msgid "Animal or vegetable?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Isso e  animal ou vegetal?"
+msgstr "Isso e  animal ou vegetal?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE"
@@ -19809,13 +19436,9 @@ msgid "Full of cholesterol."
 msgstr "Cheio de colesterol."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISH_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISH_COOKED"
 msgid "Beautifully grilled."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Melancia Grelhada"
+msgstr "Melancia Grelhada"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SWEATERVEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SWEATERVEST"
@@ -19823,13 +19446,9 @@ msgid "This vest screams \"stylish, but well-read.\"."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES_COOKED"
 msgid "Roasted Ardisia crenata, just in case."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Algumas frutinhas ardisia crenata, eu acho."
+msgstr "Algumas frutinhas ardisia crenata, eu acho."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BACONEGGS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BACONEGGS"
@@ -20038,13 +19657,9 @@ msgid "The gem appears to be sucking energy out anything it touches."
 msgstr "A gema parece estar sugando toda a energia de tudo que ela toca."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLOWDART_SLEEP
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLOWDART_SLEEP"
 msgid "Improvised tranquilizer device."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"APARELHO FERROANTE IMPROVISADO"
+msgstr "APARELHO FERROANTE IMPROVISADO"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHERHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHERHAT"
@@ -20077,13 +19692,9 @@ msgid "Camouflage"
 msgstr "Camuflagem"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENSHOVEL
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDENSHOVEL"
 msgid "The most malleable of metals, but let's see how this digs."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O mais maleavel dos metais, mas vejamos como isto minera."
+msgstr "O mais maleavel dos metais, mas vejamos como isto minera."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.INACTIVE"
@@ -20136,13 +19747,9 @@ msgid "Measure before you act."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINERHAT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINERHAT"
 msgid "This would make a great reading light."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Isso poderia ser a cabeca de um machado."
+msgstr "Isso poderia ser a cabeca de um machado."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE_ITEM"
@@ -20200,13 +19807,9 @@ msgid "The ground. You step on it."
 msgstr "O chao. Voce pisa nele."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGRODSTART
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGRODSTART"
 msgid "This rod might could be useful!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"VARINHA PODE SER FERRAMENTA UTIL."
+msgstr "VARINHA PODE SER FERRAMENTA UTIL."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KNIGHT_NIGHTMARE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KNIGHT_NIGHTMARE"
@@ -20330,13 +19933,9 @@ msgid "A specimen of leather and fur."
 msgstr "Uma especie de couro e pelica."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFRUIT_COOKED"
 msgid "Pleasantly prepared pitahaya blanca."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Hylocereus undatus ou pitahaya blanca."
+msgstr "Hylocereus undatus ou pitahaya blanca."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLEHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLEHAT"
@@ -20379,13 +19978,9 @@ msgid "A muscular hydrostat that's been sat near something hygroscopic."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE_PILLAR
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE_PILLAR"
 msgid "There's more of it below than above!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ta mais pra piramide do que obelisco."
+msgstr "Ta mais pra piramide do que obelisco."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC"
@@ -20513,13 +20108,9 @@ msgid "Concentric rings of teeth for rapid ingestion."
 msgstr "Aneis concentricos de dentes para ingestao acelerada."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGLEGS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGLEGS"
 msgid "They're still twitching a bit."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Elas ainda se mexem!"
+msgstr "Elas ainda se mexem!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_HAY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_HAY"
@@ -20527,13 +20118,9 @@ msgid "I don't trust that wall."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_2
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_2"
 msgid "A fake membranophone."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Kazoo Falso"
+msgstr "Kazoo Falso"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LANTERN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LANTERN"
@@ -20626,13 +20213,9 @@ msgid "Combustion!"
 msgstr "Combustao!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEMINE_MAXWELL
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEMINE_MAXWELL"
 msgid "A dangerous mine filled with Culicidae."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Uma mina perigosa recheada de Antophila."
+msgstr "Uma mina perigosa recheada de Antophila."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOUND.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOUND.GENERIC"
@@ -20675,13 +20258,9 @@ msgid "Hmm, don't think I'm missing any buttons at the moment."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_8
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_8"
 msgid "It reminds me of my bath tub. I could use a long soak."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ele me lembra o meu velho numero de magica."
+msgstr "Ele me lembra o meu velho numero de magica."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY"
@@ -20704,13 +20283,9 @@ msgid "This used to be something, now it's just a pile of ash."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ASH.REMAINS_EYE_BONE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ASH.REMAINS_EYE_BONE"
 msgid "The eyebone seems to have been burned entirely."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ele parece ter se apegado a mim."
+msgstr "Ele parece ter se apegado a mim."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_4"
@@ -20733,13 +20308,9 @@ msgid "It is a good thing this algae has no need for photosynthesis."
 msgstr "Que bom que essa algas nao precisam de fotossintese."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEROGIES
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PEROGIES"
 msgid "A wonderfully bland dumpling."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Bolinho"
+msgstr "Bolinho"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGGLEBUNWICH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROGGLEBUNWICH"
@@ -23477,13 +23048,9 @@ msgid "Safe and secure, eh?"
 msgstr "Sao e salvo, visse?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ACCOMPLISHMENT_SHRINE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ACCOMPLISHMENT_SHRINE"
 msgid "It seems a bit show-offy to me."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tem um cheiro meio esquisito, ne?"
+msgstr "Tem um cheiro meio esquisito, ne?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CUTREEDS"
@@ -27335,13 +26902,9 @@ msgid "What's the matter, got no dirt?"
 msgstr "Que foi? Ta sem terra?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURKEYDINNER
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TURKEYDINNER"
 msgid "A feast of burned bird!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Banquete Mortal"
+msgstr "Banquete Mortal"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SILK
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SILK"
@@ -27609,13 +27172,9 @@ msgid "Blech. What a slob."
 msgstr "Arghh. Que porcalhao."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRAGONFRUIT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.DRAGONFRUIT"
 msgid "It looks sort of like a fire!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parece uma oferenda para a besta."
+msgstr "Parece uma oferenda para a besta."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORM.PLANT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WORM.PLANT"
@@ -27638,13 +27197,9 @@ msgid "Stupid flowers. They're almost useless."
 msgstr "Flores ridiculas. Quase que inuteis."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PERD
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PERD"
 msgid "Evil bird! Get away from my yummy berries!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Passaro idiota! Fica longe das minhas frutinhas!"
+msgstr "Passaro idiota! Fica longe das minhas frutinhas!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MERMHEAD"
@@ -27727,22 +27282,14 @@ msgid "Pocket full of bees!"
 msgstr "Bolso cheio de abelhas!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT"
 msgid "Definitely not a bird."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Com certeza nao e o meu estilo."
+msgstr "Com certeza nao e o meu estilo."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATBALLS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MEATBALLS"
 msgid "Meat made into spheres and improved with fire."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu fazer comida bom com fogo!"
+msgstr "Eu fazer comida bom com fogo!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMEAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.COOKEDMEAT"
@@ -27775,13 +27322,9 @@ msgid "I've taken his hair and put it on my own!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.MINOTAURCHEST
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.MINOTAURCHEST"
 msgid "I want big horns like that!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ser grande e barulhento. Eu gostar!"
+msgstr "Ser grande e barulhento. Eu gostar!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTERHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTERHAT"
@@ -27924,13 +27467,9 @@ msgid "I've got a new bag!"
 msgstr "Saca so minha bolsa nova!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KABOBS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.KABOBS"
 msgid "Meat and fire, now with a stick!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu atacar noite com galho de fogo."
+msgstr "Eu atacar noite com galho de fogo."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.INSANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.INSANITYROCK.INACTIVE"
@@ -27978,13 +27517,9 @@ msgid "It's waxy."
 msgstr "Tem cera."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PUMPKIN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PUMPKIN"
 msgid "I wonder what will happen if I apply fire."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Me pergunto o que sera."
+msgstr "Me pergunto o que sera."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOMESIGN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HOMESIGN"
@@ -28047,13 +27582,9 @@ msgid "Ugh, that smells terrible."
 msgstr "Argh, que cheiro horrivel!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.POMEGRANATE_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.POMEGRANATE_COOKED"
 msgid "Fire always makes things better."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"FOGO FAZ DAS COISAS MELHORES"
+msgstr "FOGO FAZ DAS COISAS MELHORES"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.WALL_WOOD_ITEM"
@@ -28081,13 +27612,9 @@ msgid "Can make inuksuks with these?"
 msgstr "Eu posso fazer inukshuks com elas?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTGRASS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTGRASS"
 msgid "Cut grass, ready for burning. Or maybe crafting."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Canico cortado, pronto para queimar. Ou talvez fabricar algo."
+msgstr "Canico cortado, pronto para queimar. Ou talvez fabricar algo."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.EGGPLANT_SEEDS"
@@ -28165,13 +27692,9 @@ msgid "They spread like fire."
 msgstr "Elas espalham como fogo."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BACKPACK
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BACKPACK"
 msgid "I could fit like a million lighters in here."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Soa como se tivesse um campo de bifalos la dentro."
+msgstr "Soa como se tivesse um campo de bifalos la dentro."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.YELLOWSTAFF"
@@ -28778,13 +28301,9 @@ msgid "Sound like big strong man coming."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FREEDOM
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FREEDOM"
 msgid "I am free! Strong freedom!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Estou livre! Estou finalmente livre!"
+msgstr "Estou livre! Estou finalmente livre!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL"
@@ -28812,13 +28331,9 @@ msgid "Step stones."
 msgstr "Para caminhar."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEMINE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEMINE"
 msgid "Is ball full of anger bees."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ta cheia de abelhas!"
+msgstr "Ta cheia de abelhas!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_COOKED
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_COOKED"
@@ -28836,22 +28351,14 @@ msgid "Pretty pictures!"
 msgstr "Fotos bonitinhos!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FROGLEGS_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FROGLEGS_COOKED"
 msgid "Is mostly taste like chicken."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tem gosto de frango."
+msgstr "Tem gosto de frango."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEPLETED_GRASS.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEPLETED_GRASS.GENERIC"
 msgid "Is tuft of grass."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E um tufo de grama."
+msgstr "E um tufo de grama."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SLURTLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SLURTLE"
@@ -28859,13 +28366,9 @@ msgid "Ha! You are slow!"
 msgstr "Ha! Seu lento!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_SLEEP
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_SLEEP"
 msgid "Dart do sleeping to enemies."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cuspa sonolencia nos seus inimigos."
+msgstr "Cuspa sonolencia nos seus inimigos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTLICHEN"
@@ -28938,13 +28441,9 @@ msgid "Is fishy man!"
 msgstr "Ser homem peixe!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN_WINTER
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN_WINTER"
 msgid "Is feather of bird white."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parece uma pena de Cardinalis, so que branca."
+msgstr "Parece uma pena de Cardinalis, so que branca."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_MARSH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_MARSH"
@@ -29037,22 +28536,14 @@ msgid "Rock reaching for the roof."
 msgstr "Rocha procurando a teto."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDNEST.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDNEST.GENERIC"
 msgid "Is big egg!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ovo"
+msgstr "Ovo"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDNEST.PICKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TALLBIRDNEST.PICKED"
 msgid "Is nest of emptiness."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Me reconforto com o seu vazio."
+msgstr "Me reconforto com o seu vazio."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONPIE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONPIE"
@@ -29065,13 +28556,9 @@ msgid "What is this? Meat for baby man?"
 msgstr "O que ser isso? Carne para homem bebe?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DURIAN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DURIAN"
 msgid "Is spiky smelly fruit."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sementes fedidas para uma fruta fedida."
+msgstr "Sementes fedidas para uma fruta fedida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUSHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUSHAT"
@@ -29219,13 +28706,9 @@ msgid "I hear nomming inside."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRUITMEDLEY
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FRUITMEDLEY"
 msgid "Is cup of teensy fruits."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pequenino beringela falso."
+msgstr "Pequenino beringela falso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARBLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MARBLE"
@@ -29243,13 +28726,9 @@ msgid "Is pretty rock."
 msgstr "Bonito pedra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FISH
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FISH"
 msgid "Is fishy."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Peixe fedido!"
+msgstr "Peixe fedido!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EYETURRET_ITEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EYETURRET_ITEM"
@@ -29277,31 +28756,19 @@ msgid "Is scared spider!"
 msgstr "Se aranha assustado!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.GENERIC"
 msgid "What is purpose?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"PROPOSITO DE USO INDEFINIDO."
+msgstr "PROPOSITO DE USO INDEFINIDO."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.READY
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.READY"
 msgid "Rod thing need key to make start."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Quem voce pensa que te permitiu fazer isso?"
+msgstr "Quem voce pensa que te permitiu fazer isso?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.UNLOCKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODBASE.UNLOCKED"
 msgid "Rod thing is on!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E uma... coisa."
+msgstr "E uma... coisa."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CAMPFIRE.GENERIC"
@@ -29359,13 +28826,9 @@ msgid "Nose meat!"
 msgstr "Carne de nariz!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKEDMANDRAKE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKEDMANDRAKE"
 msgid "Little plant man is food?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Homem planta pequena esta morta!"
+msgstr "Homem planta pequena esta morta!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD"
@@ -29373,13 +28836,9 @@ msgid "Is bad piggie!"
 msgstr "Ser porco mau!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE"
 msgid "Tree is spooky!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pavoroso!"
+msgstr "Pavoroso!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MONSTERMEAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MONSTERMEAT"
@@ -29447,13 +28906,9 @@ msgid "World has belly button!"
 msgstr "O mundo ter umbigo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RUINSHAT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RUINSHAT"
 msgid "Is hat for king."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"POR REI!"
+msgstr "POR REI!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSJUNK2"
@@ -29506,13 +28961,9 @@ msgid "Chop and dig! I can do that all day."
 msgstr "Lenhar e cavar! Eu poder fazer isso dia todo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MINERHAT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MINERHAT"
 msgid "Lamp for put on head."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUNNYMAN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUNNYMAN"
@@ -29575,13 +29026,9 @@ msgid "Is light, but not good light."
 msgstr "Ser luz, mas nau luz bom."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODSTART
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DIVININGRODSTART"
 msgid "Is funny rod thing."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Gosto bizarra."
+msgstr "Gosto bizarra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUG_GRASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DUG_GRASS"
@@ -29599,13 +29046,9 @@ msgid "Is tallest bird!"
 msgstr "Ser passaro mais alta!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESTEW
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BONESTEW"
 msgid "Is stew full of strong meat."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Carne deixar mais forte!"
+msgstr "Carne deixar mais forte!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TENTACLE_GARDEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TENTACLE_GARDEN"
@@ -29618,13 +29061,9 @@ msgid "Flying mousey!"
 msgstr "Ratinha Voador!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARROT_PLANTED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARROT_PLANTED"
 msgid "Is hiding?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"ESTA ESCONDIDO"
+msgstr "ESTA ESCONDIDO"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SANITYROCK.INACTIVE"
@@ -29677,13 +29116,9 @@ msgid "Is vest with pattern for fancy man."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRIES_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BERRIES_COOKED"
 msgid "Is more tasty!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Menos cru, mais saboroso."
+msgstr "Menos cru, mais saboroso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORMHOLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORMHOLE.GENERIC"
@@ -29701,14 +29136,9 @@ msgid "Is junk?"
 msgstr "Ser sucata?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUGNET
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUGNET"
 msgid "Catch bugs."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Capture insetos.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pegar insetos."
+msgstr "Pegar insetos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERQUEEN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERQUEEN"
@@ -29891,13 +29321,9 @@ msgid "I already took that mushy room."
 msgstr "Essa cogumelo ja foi pegado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEHAT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEHAT"
 msgid "Is hat for to protect from stinger bees."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Isto oferecera alguma protecao contra o sol."
+msgstr "Isto oferecera alguma protecao contra o sol."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FIREFLIES.GENERIC"
@@ -29980,13 +29406,9 @@ msgid "There is bird inside."
 msgstr "Ter passaro dentro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAFFLES
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAFFLES"
 msgid "Why does bread have holes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Por que ele me odeia?"
+msgstr "Por que ele me odeia?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STATUEMAXWELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STATUEMAXWELL"
@@ -30019,22 +29441,14 @@ msgid "Is floppy hairy nose."
 msgstr "Ser nariz peluda e molenga."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN"
 msgid "Is feather of bird red."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Uma pena. Vermelha como o sangue em meu coracao."
+msgstr "Uma pena. Vermelha como o sangue em meu coracao."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.COOKING_SHORT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.COOKING_SHORT"
 msgid "Is almost cook!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cozinhar"
+msgstr "Cozinhar"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.EMPTY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.EMPTY"
@@ -30042,22 +29456,14 @@ msgid "Empty pot make Wolfgang think hungry thoughts."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.DONE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.DONE"
 msgid "Is time to eat!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comer"
+msgstr "Comer"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.COOKING_LONG
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.COOKPOT.COOKING_LONG"
 msgid "This take long time."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E isso vai demorar quanto?"
+msgstr "E isso vai demorar quanto?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_STONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALL_STONE_ITEM"
@@ -30065,13 +29471,9 @@ msgid "Piles of rocks!"
 msgstr "Pilhas do rochas!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACCOMPLISHMENT_SHRINE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ACCOMPLISHMENT_SHRINE"
 msgid "I will defeat you, tiny arrow!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu estar fazendo marravilhas com este flechinha!"
+msgstr "Eu estar fazendo marravilhas com este flechinha!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CUTREEDS"
@@ -30109,13 +29511,9 @@ msgid "Scary goat man! Run!"
 msgstr "Homem cabra assustadora! Corre!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RATATOUILLE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RATATOUILLE"
 msgid "Is food. Sort of."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"PARECE SER ALGUM TIPO DE PROJEÇAO."
+msgstr "PARECE SER ALGUM TIPO DE PROJEÇAO."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.FULL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGHOUSE.FULL"
@@ -30248,13 +29646,9 @@ msgid "Is junk, I think."
 msgstr "Ser sucata, eu crer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN"
 msgid "Is corn. What expect?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Milho"
+msgstr "Milho"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGLOG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGLOG"
@@ -30267,13 +29661,9 @@ msgid "I put stuff there!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFRUIT_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFRUIT_COOKED"
 msgid "Is cooked but still look funny."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O mal mesmo cozido continua sendo mal."
+msgstr "O mal mesmo cozido continua sendo mal."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SLURTLEHAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SLURTLEHAT"
@@ -30481,13 +29871,9 @@ msgid "Where is pretty music?"
 msgstr "Onde estar musica bonito?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEMINE_MAXWELL
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEMINE_MAXWELL"
 msgid "Is ball full of anger mosquitos."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Estou vazia por completo."
+msgstr "Estou vazia por completo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOUND.DUG
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOUND.DUG"
@@ -30555,13 +29941,9 @@ msgid "The bugs are hiding in there."
 msgstr "Os insetas estau a esconder ali."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.GENERIC"
 msgid "Is skeleton of fire."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esqueleto"
+msgstr "Esqueleto"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_THINGIE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ASH.REMAINS_THINGIE"
@@ -30594,13 +29976,9 @@ msgid "Plant is so small! Is funny to me."
 msgstr "Planta ser pequeno! Ser engracado para mim."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEROGIES
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PEROGIES"
 msgid "Wolfgang love perogi!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Wolfgang"
+msgstr "Wolfgang"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FROGGLEBUNWICH
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FROGGLEBUNWICH"
@@ -30608,13 +29986,9 @@ msgid "Is sandwich with tasty leg meat."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HONEYHAM
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HONEYHAM"
 msgid "Big meat with sweet is good meat."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu fazer comida bom com fogo!"
+msgstr "Eu fazer comida bom com fogo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLMEAT"
@@ -30692,13 +30066,9 @@ msgid "Is silly hat of feather. Is Wolfgang bird now?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_PIPE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_PIPE"
 msgid "Dart do pain to enemies."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Cuspa sonolencia nos seus inimigos."
+msgstr "Cuspa sonolencia nos seus inimigos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEWING_KIT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEWING_KIT"
@@ -30706,13 +30076,9 @@ msgid "Is pokey!"
 msgstr "Isso cutucar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEEDS_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEEDS_COOKED"
 msgid "Fire make bigger, can eat now."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O fogo me deixa nervoso."
+msgstr "O fogo me deixa nervoso."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEEDS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SEEDS"
@@ -30740,13 +30106,9 @@ msgid "He is cold and lonely."
 msgstr "Ele ser frio e sozinha."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURKEYDINNER
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURKEYDINNER"
 msgid "Is good feast of bird meat."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Passaro cozida. Boa para cafe do manha!"
+msgstr "Passaro cozida. Boa para cafe do manha!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SILK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SILK"
@@ -30819,22 +30181,14 @@ msgid "Liquid fire!"
 msgstr "Fogo liquida!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN_WINTER.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN_WINTER.GENERIC"
 msgid "Is pretty white color bird."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu esperar passaro."
+msgstr "Eu esperar passaro."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN_WINTER.HELD
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN_WINTER.HELD"
 msgid "Is fluffy bird. Nice bird."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Alcapao"
+msgstr "Alcapao"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROCKY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROCKY"
@@ -30847,22 +30201,14 @@ msgid "Horsey horse!"
 msgstr "Sua equino!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN.GENERIC
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN.GENERIC"
 msgid "Is pretty red color bird."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"SAUDAÇOES, PASSARO VERMELHO"
+msgstr "SAUDAÇOES, PASSARO VERMELHO"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN.HELD
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROBIN.HELD"
 msgid "Is happy bird in pocket."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Este bifalo nao foi feliz, ne?"
+msgstr "Este bifalo nao foi feliz, ne?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER_CAVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FLOWER_CAVE"
@@ -30880,13 +30226,9 @@ msgid "Padre!"
 msgstr "Padre!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN"
 msgid "Is broken altar."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ser altar quebrada!"
+msgstr "Ser altar quebrada!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTONE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RESURRECTIONSTONE"
@@ -30934,13 +30276,9 @@ msgid "Scary light!"
 msgstr "Luz assustador!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_CROW
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_CROW"
 msgid "Is feather of bird black."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E fria e negra."
+msgstr "E fria e negra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TENTACLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TENTACLE"
@@ -30983,22 +30321,14 @@ msgid "Pretty rock."
 msgstr "Bonito pedra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRUMSTICK_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRUMSTICK_COOKED"
 msgid "Eat off bone is good."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu nao sei se isso e bom de comer."
+msgstr "Eu nao sei se isso e bom de comer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOUNDBONE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOUNDBONE"
 msgid "Wimpy woof dog was not strong enough."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O casa nau era forte bastante."
+msgstr "O casa nau era forte bastante."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HORN
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HORN"
@@ -31046,13 +30376,9 @@ msgid "Prettier rock."
 msgstr "Bonito pedra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKIN_SEEDS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKIN_SEEDS"
 msgid "This grow food size of wimpy head."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Este pedra redondo ser como meu cabessa!"
+msgstr "Este pedra redondo ser como meu cabessa!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORM.PLANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORM.PLANT"
@@ -31070,13 +30396,9 @@ msgid "Did not expect this!"
 msgstr "Nao esperava isso!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKINCOOKIE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKINCOOKIE"
 msgid "Is tasty cookie."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Wunderbar!"
+msgstr "Wunderbar!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LITTLE_WALRUS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LITTLE_WALRUS"
@@ -31094,13 +30416,9 @@ msgid "Is all wet."
 msgstr "Ser toda molhado."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POMEGRANATE_SEEDS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POMEGRANATE_SEEDS"
 msgid "Is piece of brain?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eles fazer minha cerebro doer."
+msgstr "Eles fazer minha cerebro doer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOUND
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HOUND"
@@ -31148,13 +30466,9 @@ msgid "Ha! Is good people!"
 msgstr "Ha! Ser gente bom!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT"
 msgid "Is not egg!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ovo"
+msgstr "Ovo"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STUFFEDEGGPLANT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.STUFFEDEGGPLANT"
@@ -31212,13 +30526,9 @@ msgid "Is broken."
 msgstr "Estar quebrado!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOSQUITOSACK
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOSQUITOSACK"
 msgid "Uncle did not have gut like this."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Meu avo usava um chapeu desses."
+msgstr "Meu avo usava um chapeu desses."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOSQUITO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOSQUITO.GENERIC"
@@ -31256,13 +30566,9 @@ msgid "Is no time for reading signs!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATBALLS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MEATBALLS"
 msgid "Ball of meats make me strong!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Carne deixar mais forte!"
+msgstr "Carne deixar mais forte!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON"
@@ -31300,13 +30606,9 @@ msgid "Scary head is 12 feet tall!"
 msgstr "Cabeca assutador tem 4 metros de altura!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRUMSTICK
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRUMSTICK"
 msgid "Leg meat for make legs more strong."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Carne deixar mais forte!"
+msgstr "Carne deixar mais forte!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KOALEFANT_WINTER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KOALEFANT_WINTER"
@@ -31319,13 +30621,9 @@ msgid "Step stones."
 msgstr "Para caminhar."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANDRAKESOUP
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANDRAKESOUP"
 msgid "Little plant man is for make soup!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pequena amigo homem planta!"
+msgstr "Pequena amigo homem planta!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MAXWELL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MAXWELL"
@@ -31373,13 +30671,9 @@ msgid "Is dark and scary down here."
 msgstr "Ser escura e assutador aqui embaixo."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ICESTAFF
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ICESTAFF"
 msgid "Is my cold stick!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O galho e retorcido como a minha alma."
+msgstr "O galho e retorcido como a minha alma."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MALE_PUPPET"
@@ -31407,13 +30701,9 @@ msgid "Is thick like my arm."
 msgstr "Ser duro como meu braco."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKIN
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PUMPKIN"
 msgid "Is big as head of weakling man! Not Wolfgang head."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esta homem tinha cabeca grande!"
+msgstr "Esta homem tinha cabeca grande!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LEIF
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LEIF"
@@ -31421,13 +30711,9 @@ msgid "Wood man!"
 msgstr "Madeira mensch!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_SEEDS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CORN_SEEDS"
 msgid "Is seeds for grow corn."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Graos de Milho"
+msgstr "Graos de Milho"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LEIF_SPARSE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LEIF_SPARSE"
@@ -31450,13 +30736,9 @@ msgid "Ooooh, sparks!"
 msgstr "Uuuuhh, brilha!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KABOBS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KABOBS"
 msgid "Eat off stick is good."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu nao sei se isso e bom de comer."
+msgstr "Eu nao sei se isso e bom de comer."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.INSANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.INSANITYROCK.INACTIVE"
@@ -31599,13 +30881,9 @@ msgid "Is not potato."
 msgstr "Nao ser batata."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BACKPACK
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BACKPACK"
 msgid "Is for carry more thing."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Carregue mais tralha."
+msgstr "Carregue mais tralha."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWSTAFF"
@@ -31713,13 +30991,9 @@ msgid "Why long face?"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POMEGRANATE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POMEGRANATE"
 msgid "Look like smartypants' brain."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parece o interior de um cerebro alienigena."
+msgstr "Parece o interior de um cerebro alienigena."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.UMBRELLA"
@@ -31737,13 +31011,9 @@ msgid "I use this to grow funny fruit."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFRUIT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFRUIT"
 msgid "Is funny looking fruit."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Gosto bizarra."
+msgstr "Gosto bizarra."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEERCLOPS_EYEBALL"
@@ -31756,13 +31026,9 @@ msgid "Pretty light."
 msgstr "Luz bonito."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARROT_SEEDS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARROT_SEEDS"
 msgid "Seeds is too small."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O porta ser muito pequena para eu."
+msgstr "O porta ser muito pequena para eu."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUS_TUSK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUS_TUSK"
@@ -31855,13 +31121,9 @@ msgid "Money is for tiny men!"
 msgstr "Dinheiro ser para os pequeninas!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TAFFY
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TAFFY"
 msgid "Is sweet candy thing."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nao consigo ver nada!"
+msgstr "Nao consigo ver nada!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_FIRE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_FIRE"
@@ -31894,13 +31156,9 @@ msgid "Is house of bones."
 msgstr "Ser casa das ossos."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DEADLYFEAST"
 msgid "Look like evil food."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nau parecer com comida."
+msgstr "Nau parecer com comida."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YELLOWAMULET"
@@ -31948,13 +31206,9 @@ msgid "Boom snot!"
 msgstr "Meleca kabum!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT_COOKED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.EGGPLANT_COOKED"
 msgid "Has no yolk! Yolk is strongest part!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comida ter gema! E carne! Mais forte!"
+msgstr "Comida ter gema! E carne! Mais forte!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MONKEY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MONKEY"
@@ -32042,13 +31296,9 @@ msgid "I need to filly my mighty belly again!"
 msgstr "Eu precisa encher meu barriga poderoso de novo!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_RESEARCH
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_RESEARCH"
 msgid "Is lot of information."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"INFORMAÇAO ADICIONADA"
+msgstr "INFORMAÇAO ADICIONADA"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CANFIX
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_CANFIX"
@@ -32080,13 +31330,9 @@ msgid "What is this thing?"
 msgstr "Que ser essa coisa?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LOWRESEARCH"
 msgid "Is tiny information."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"INFORMAÇAO ADICIONADA"
+msgstr "INFORMAÇAO ADICIONADA"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT"
@@ -32094,33 +31340,19 @@ msgid "Ugh, Wolfgang must have hit head."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HIGHRESEARCH"
 msgid "Is maybe too much information."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Informacao demais!"
+msgstr "Informacao demais!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT"
 msgid "Oh no! The light is gone!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ah nao! A luz se foi!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aaa nau!  O luz se ir!"
+msgstr "Aaa nau!  O luz se ir!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BEES
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BEES"
 msgid "Bees! Nasty stinging bug men!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abelhas! Insetos Desagradaveis!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abelhas! Perversas homens inseto aferroadores!"
+msgstr "Abelhas! Perversas homens inseto aferroadores!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP_CAVE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP_CAVE"
@@ -32128,32 +31360,19 @@ msgid "Is creepy in cave."
 msgstr "Eh assustador na caverna."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENTER_LIGHT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENTER_LIGHT"
 msgid "I can see again!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu posso ver de novo!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Poder ver de nova!"
+msgstr "Poder ver de nova!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_THORNS"
 msgid "Pointy is not fair!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pontuda!"
+msgstr "Pontuda!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ACCOMPLISHMENT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ACCOMPLISHMENT"
 msgid "I am doing great things with tiny arrow!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu estar fazendo marravilhas com este flechinha!"
+msgstr "Eu estar fazendo marravilhas com este flechinha!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_HUNGRY"
@@ -32216,13 +31435,9 @@ msgid "I am not feeling so good."
 msgstr "Eu nao sentir bem."
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_NODAYSLEEP"
 msgid "Is too bright for sleep."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esta claro demais."
+msgstr "Esta claro demais."
 
 #. STRINGS.BUNNYMANNAMES.1
 msgctxt "STRINGS.BUNNYMANNAMES.1"
@@ -32590,35 +31805,19 @@ msgid "(Custom)"
 msgstr "(Personalizado)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE"
 msgid "Discard Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Descartar Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Descartar Mudancas"
+msgstr "Descartar Mudancas"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY
-#, fuzzy
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
 msgid "Only 5 custom presets allowed. Choose one to overwrite:"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apenas 5 predefinicoes personalizados permitido. Escolha um para "
-"substituir:\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apenas 5 pre-ajustes permitidos. Escolha um para sobrescrever:"
+msgstr "Apenas 5 pre-ajustes permitidos. Escolha um para sobrescrever:"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE"
 msgid "Lose Changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Perder Alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Perder as Trocas?"
+msgstr "Perder as Trocas?"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.YES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YES"
@@ -32626,14 +31825,9 @@ msgid "Yes"
 msgstr "Sim"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC
-#, fuzzy
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC"
 msgid "Custom preset"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Predefinicao Personalizada\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pre-ajuste personalizado"
+msgstr "Pre-ajuste personalizado"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING"
@@ -32646,14 +31840,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETTITLE"
 msgid "Preset"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Predefinicao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pre-ajustes"
+msgstr "Pre-ajustes"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC"
@@ -32843,14 +32032,9 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. STRINGS.UI.BROADCASTING.TWITCHCHAT
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.TWITCHCHAT"
 msgid "Twitch Chat"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Twitch Chat\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Chat do Twitch"
+msgstr "Chat do Twitch"
 
 #. STRINGS.UI.BROADCASTING.CLOSE
 msgctxt "STRINGS.UI.BROADCASTING.CLOSE"
@@ -32873,26 +32057,14 @@ msgid "Help"
 msgstr "Ajuda"
 
 #. STRINGS.UI.BROADCASTING.STOPSTREAM
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.STOPSTREAM"
 msgid "Stop Stream"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parar Stream\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Parar Transmissao"
+msgstr "Parar Transmissao"
 
 #. STRINGS.UI.BROADCASTING.STARTSTREAM
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.STARTSTREAM"
 msgid "Start Stream"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Iniciar Steam\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Iniciar Stream\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comecar Transmissao"
+msgstr "Comecar Transmissao"
 
 #. STRINGS.UI.BROADCASTING.YES
 msgctxt "STRINGS.UI.BROADCASTING.YES"
@@ -32900,64 +32072,34 @@ msgid "Yes"
 msgstr "Sim"
 
 #. STRINGS.UI.BROADCASTING.SYSTEMSOUND
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.SYSTEMSOUND"
 msgid "System Sound"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sistema de Som\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Som do Sistema"
+msgstr "Som do Sistema"
 
 #. STRINGS.UI.BROADCASTING.SIGNUP
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.SIGNUP"
 msgid "Sign Up"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Registrar-se\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Inscrever-se"
+msgstr "Inscrever-se"
 
 #. STRINGS.UI.BROADCASTING.REVERT
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.REVERT"
 msgid "Revert Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Reverter Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Desfazer"
+msgstr "Desfazer"
 
 #. STRINGS.UI.BROADCASTING.ACCEPTBODY
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.ACCEPTBODY"
 msgid "Do you wish to accept these changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deseja aceitar estas alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce desejar aceitar estas modificacoes?"
+msgstr "Voce desejar aceitar estas modificacoes?"
 
 #. STRINGS.UI.BROADCASTING.VIEWSTREAM
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.VIEWSTREAM"
 msgid "View Stream"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ver Stream\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ver Transmissao"
+msgstr "Ver Transmissao"
 
 #. STRINGS.UI.BROADCASTING.BANDWIDTH
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.BANDWIDTH"
 msgid "Bandwidth"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Largura de Banda\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Banda"
+msgstr "Banda"
 
 #. STRINGS.UI.BROADCASTING.LOGOUT
 msgctxt "STRINGS.UI.BROADCASTING.LOGOUT"
@@ -32965,24 +32107,14 @@ msgid "Logout"
 msgstr "Desconectar"
 
 #. STRINGS.UI.BROADCASTING.BROADCASTINGENABLED
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.BROADCASTINGENABLED"
 msgid "Broadcasting Enabled"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Broadcasting Ativo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Transmissao Ativada"
+msgstr "Transmissao Ativada"
 
 #. STRINGS.UI.BROADCASTING.BACKBODY
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.BACKBODY"
 msgid "Do you want to throw out your changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce quer jogar fora as suas alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce quer desfazer as mudancas?"
+msgstr "Voce quer desfazer as mudancas?"
 
 #. STRINGS.UI.BROADCASTING.APPLY
 msgctxt "STRINGS.UI.BROADCASTING.APPLY"
@@ -32990,14 +32122,9 @@ msgid "Apply"
 msgstr "Aplicar"
 
 #. STRINGS.UI.BROADCASTING.FORGET
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.FORGET"
 msgid "Forget Account"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esqueci minha Conta\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Remover Conta"
+msgstr "Remover Conta"
 
 #. STRINGS.UI.BROADCASTING.ACCEPT
 msgctxt "STRINGS.UI.BROADCASTING.ACCEPT"
@@ -33005,14 +32132,9 @@ msgid "Accept"
 msgstr "Aceitar"
 
 #. STRINGS.UI.BROADCASTING.SMOOTHSCALING
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.SMOOTHSCALING"
 msgid "Smooth Scaling"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Escala Suave\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Redimens. Suave"
+msgstr "Redimens. Suave"
 
 #. STRINGS.UI.BROADCASTING.MICROPHONE
 msgctxt "STRINGS.UI.BROADCASTING.MICROPHONE"
@@ -33020,54 +32142,29 @@ msgid "Microphone"
 msgstr "Microfone"
 
 #. STRINGS.UI.BROADCASTING.WEBCAMALPHA
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.WEBCAMALPHA"
 msgid "Webcam Alpha"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Webcam Alfa\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Alfa da Webcam"
+msgstr "Alfa da Webcam"
 
 #. STRINGS.UI.BROADCASTING.AUDIO
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.AUDIO"
 msgid "Audio"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Som\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Audio"
+msgstr "Audio"
 
 #. STRINGS.UI.BROADCASTING.FRAMERATE
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.FRAMERATE"
 msgid "Frame Rate"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Frame Rate\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Quadros p/ Seg."
+msgstr "Quadros p/ Seg."
 
 #. STRINGS.UI.BROADCASTING.LOGIN
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.LOGIN"
 msgid "Login"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Entrar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Login"
+msgstr "Login"
 
 #. STRINGS.UI.BROADCASTING.ACCEPTTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.ACCEPTTITLE"
 msgid "Accept Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Mudancas"
+msgstr "Aceitar Mudancas"
 
 #. STRINGS.UI.BROADCASTING.NO
 msgctxt "STRINGS.UI.BROADCASTING.NO"
@@ -33075,14 +32172,9 @@ msgid "No"
 msgstr "Nao"
 
 #. STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSTITLE"
 msgid "Accept Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Mudancas"
+msgstr "Aceitar Mudancas"
 
 #. STRINGS.UI.BROADCASTING.CANCEL
 msgctxt "STRINGS.UI.BROADCASTING.CANCEL"
@@ -33090,14 +32182,9 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSBODY
-#, fuzzy
 msgctxt "STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSBODY"
 msgid "Do you wish to accept these changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deseja aceitar estas alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce desejar aceitar estas modificacoes?"
+msgstr "Voce desejar aceitar estas modificacoes?"
 
 #. STRINGS.UI.GENDERSTRINGS.FEMALE.ONE
 msgctxt "STRINGS.UI.GENDERSTRINGS.FEMALE.ONE"
@@ -33170,34 +32257,19 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. STRINGS.UI.TELEPORTYES
-#, fuzzy
 msgctxt "STRINGS.UI.TELEPORTYES"
 msgid "Lets Go!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos la!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos!"
+msgstr "Vamos!"
 
 #. STRINGS.UI.CRAFTING.PLACE
-#, fuzzy
 msgctxt "STRINGS.UI.CRAFTING.PLACE"
 msgid "Place"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Lugar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colocar"
+msgstr "Colocar"
 
 #. STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
-#, fuzzy
 msgctxt "STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE"
 msgid "Use an alchemy engine to build a prototype!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Use uma maquina de alquimia para construir um prototipo!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Use uma maquina alquimica para construir um prototipo!"
+msgstr "Use uma maquina alquimica para construir um prototipo!"
 
 #. STRINGS.UI.CRAFTING.RESEARCH
 msgctxt "STRINGS.UI.CRAFTING.RESEARCH"
@@ -33400,14 +32472,9 @@ msgid "Yes"
 msgstr "Sim"
 
 #. STRINGS.UI.NEWGAMESCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.NEWGAMESCREEN.TITLE"
 msgid "New Game"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Novo Jogo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jogo Novo"
+msgstr "Jogo Novo"
 
 #. STRINGS.UI.NEWGAMESCREEN.NO
 msgctxt "STRINGS.UI.NEWGAMESCREEN.NO"
@@ -33475,14 +32542,9 @@ msgid "Sending..."
 msgstr "Enviando..."
 
 #. STRINGS.UI.EMAILSCREEN.INVALIDDATETITLE
-#, fuzzy
 msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDDATETITLE"
 msgid "Invalid Date"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Data Invalida\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Data invalida"
+msgstr "Data invalida"
 
 #. STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
 msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
@@ -33520,14 +32582,9 @@ msgid "Aug"
 msgstr "Ago"
 
 #. STRINGS.UI.EMAILSCREEN.YEAR
-#, fuzzy
 msgctxt "STRINGS.UI.EMAILSCREEN.YEAR"
 msgid "YYYY"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"AAAA\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"aaaa"
+msgstr "AAAA"
 
 #. STRINGS.UI.EMAILSCREEN.OCT
 msgctxt "STRINGS.UI.EMAILSCREEN.OCT"
@@ -33555,15 +32612,9 @@ msgid "Jan"
 msgstr "Jan"
 
 #. STRINGS.UI.EMAILSCREEN.BIRTHDAY
-#, fuzzy
 msgctxt "STRINGS.UI.EMAILSCREEN.BIRTHDAY"
 msgid "Birthdate:"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Data de Nascimento:\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Data de\r\n"
-"Nascimento"
+msgstr "Data de Nascimento:"
 
 #. STRINGS.UI.EMAILSCREEN.OK
 msgctxt "STRINGS.UI.EMAILSCREEN.OK"
@@ -33571,24 +32622,14 @@ msgid "Ok"
 msgstr "Ok"
 
 #. STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE"
 msgid "Invalid Email"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Email Invalido\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"E-mail Invalido"
+msgstr "E-mail Invalido"
 
 #. STRINGS.UI.EMAILSCREEN.SUBSCRIBE
-#, fuzzy
 msgctxt "STRINGS.UI.EMAILSCREEN.SUBSCRIBE"
 msgid "Subscribe"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Assinar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Inscreva-se"
+msgstr "Inscreva-se"
 
 #. STRINGS.UI.EMAILSCREEN.SIGNUPFAIL
 msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPFAIL"
@@ -33643,14 +32684,9 @@ msgstr ""
 "talvez seja improprio para certas idades."
 
 #. STRINGS.UI.HUD.BUYNOW
-#, fuzzy
 msgctxt "STRINGS.UI.HUD.BUYNOW"
 msgid "Buy Now"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comprar Agora\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Compre Agora"
+msgstr "Compre Agora"
 
 #. STRINGS.UI.HUD.CLOCKDAY
 msgctxt "STRINGS.UI.HUD.CLOCKDAY"
@@ -33668,14 +32704,9 @@ msgid "Melting"
 msgstr "Derretendo"
 
 #. STRINGS.UI.HUD.SAVING
-#, fuzzy
 msgctxt "STRINGS.UI.HUD.SAVING"
 msgid "SAVING..."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Salvando...\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"SALVANDO..."
+msgstr "SALVANDO..."
 
 #. STRINGS.UI.HUD.SWAP
 msgctxt "STRINGS.UI.HUD.SWAP"
@@ -33707,24 +32738,14 @@ msgid "Take"
 msgstr "Pegar"
 
 #. STRINGS.UI.HUD.DROP
-#, fuzzy
 msgctxt "STRINGS.UI.HUD.DROP"
 msgid "Drop"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deixar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Largar"
+msgstr "Largar"
 
 #. STRINGS.UI.HUD.START
-#, fuzzy
 msgctxt "STRINGS.UI.HUD.START"
 msgid "Start"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comecar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Iniciar"
+msgstr "Iniciar"
 
 #. STRINGS.UI.HUD.CANCEL
 msgctxt "STRINGS.UI.HUD.CANCEL"
@@ -33761,14 +32782,9 @@ msgid "Starving"
 msgstr "Faminto(a)"
 
 #. STRINGS.UI.HUD.HUNGRY
-#, fuzzy
 msgctxt "STRINGS.UI.HUD.HUNGRY"
 msgid "Hungry"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Fome\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esfomeado(a)"
+msgstr "Esfomeado(a)"
 
 #. STRINGS.UI.HUD.BUILD
 msgctxt "STRINGS.UI.HUD.BUILD"
@@ -34066,24 +33082,14 @@ msgid "buckets and buckets of loot"
 msgstr "baldes e mais baldes de saque"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.9
-#, fuzzy
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.9"
 msgid "game theory"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Teoria de Jogo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"teoria do jogo"
+msgstr "teoria de jogo"
 
 #. STRINGS.UI.WORLDGEN.NOUNS.10
-#, fuzzy
 msgctxt "STRINGS.UI.WORLDGEN.NOUNS.10"
 msgid "food"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Comida\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"comida"
+msgstr "comida"
 
 #. STRINGS.UI.WORLDGEN.TITLE
 msgctxt "STRINGS.UI.WORLDGEN.TITLE"
@@ -34176,14 +33182,9 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. STRINGS.UI.MODSSCREEN.NO_MODS_LINK
-#, fuzzy
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_LINK"
 msgid "Take me to the mods!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Leve-me para os mods!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Me leve pra pagina de mods!"
+msgstr "Me leve pra pagina de mods!"
 
 #. STRINGS.UI.MODSSCREEN.MODLINK
 msgctxt "STRINGS.UI.MODSSCREEN.MODLINK"
@@ -34264,24 +33265,14 @@ msgid "Exit Now"
 msgstr "Sair Agora"
 
 #. STRINGS.UI.MODSSCREEN.FEATUREDMOD
-#, fuzzy
 msgctxt "STRINGS.UI.MODSSCREEN.FEATUREDMOD"
 msgid "Featured Mod"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Destaque\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mod em Destaque"
+msgstr "Mod em Destaque"
 
 #. STRINGS.UI.MODSSCREEN.TOPMODS
-#, fuzzy
 msgctxt "STRINGS.UI.MODSSCREEN.TOPMODS"
 msgid "Top Mods"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Melhores Mods\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mods Mais Famosos"
+msgstr "Mods Mais Famosos"
 
 #. STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL
 msgctxt "STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL"
@@ -34434,14 +33425,9 @@ msgid "Rotate Camera"
 msgstr "Girar Camera"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.R2
-#, fuzzy
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.R2"
 msgid "Open Inventory"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abrir Inventorio\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Abrir Inventario"
+msgstr "Abrir Inventario"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.TOUCHPAD
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.TOUCHPAD"
@@ -35474,14 +34460,9 @@ msgid "Right Bracket"
 msgstr ")"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.127
-#, fuzzy
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.127"
 msgid "Delete"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deletar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Delete"
+msgstr "Delete"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.1002"
@@ -35659,14 +34640,9 @@ msgid "Don't worry - we'll be waiting for you."
 msgstr "Nao se preocupe. Vamos estar esperando por voce."
 
 #. STRINGS.UI.PAUSEMENU.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.PAUSEMENU.TITLE"
 msgid "Paused"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pausado\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pausa"
+msgstr "Pausa"
 
 #. STRINGS.UI.PAUSEMENU.SAVEANDQUITYES
 msgctxt "STRINGS.UI.PAUSEMENU.SAVEANDQUITYES"
@@ -35757,14 +34733,9 @@ msgstr ""
 "itens colocados na maquina aparecerao no proximo mundo."
 
 #. STRINGS.UI.TELEPORTTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.TELEPORTTITLE"
 msgid "Journey onwards?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jornada avante?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sempre Avante?"
+msgstr "Sempre Avante?"
 
 #. STRINGS.UI.QUITTINGTITLE
 msgctxt "STRINGS.UI.QUITTINGTITLE"
@@ -35817,14 +34788,9 @@ msgid "Least"
 msgstr "Menor"
 
 #. STRINGS.UI.SANDBOXMENU.NO
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXMENU.NO"
 msgid "No"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sem"
+msgstr "Sem"
 
 #. STRINGS.UI.SANDBOXMENU.DUSK
 msgctxt "STRINGS.UI.SANDBOXMENU.DUSK"
@@ -35837,14 +34803,9 @@ msgid "Medium"
 msgstr "Medio"
 
 #. STRINGS.UI.SANDBOXMENU.EXCLUDE
-#, fuzzy
 msgctxt "STRINGS.UI.SANDBOXMENU.EXCLUDE"
 msgid "No"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Nao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Sem"
+msgstr "Sem"
 
 #. STRINGS.UI.SANDBOXMENU.BRANCHINGMOST
 msgctxt "STRINGS.UI.SANDBOXMENU.BRANCHINGMOST"
@@ -36617,14 +35578,9 @@ msgid "No thank you!"
 msgstr "Nao, obrigado!"
 
 #. STRINGS.UI.MAINSCREEN.MODFORUMS
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.MODFORUMS"
 msgid "Mod Forums"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Forum de Mods\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Foruns de Mods"
+msgstr "Foruns de Mods"
 
 #. STRINGS.UI.MAINSCREEN.NEWWORLDDESC
 msgctxt "STRINGS.UI.MAINSCREEN.NEWWORLDDESC"
@@ -36632,7 +35588,6 @@ msgid "This will erase your current world and any saved games in it. Continue?"
 msgstr "Isto apagara seu mundo atual e quaisquer jogos salvos nele. Continuar?"
 
 #. STRINGS.UI.MAINSCREEN.MODSBADLOAD
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.MODSBADLOAD"
 msgid ""
 "The game did not start correctly last time. This was likely caused by a mod, "
@@ -36640,13 +35595,6 @@ msgid ""
 "\n"
 "You can try re-enabling mods from the mod settings screen."
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"O jogo nao foi iniciado corretamente da ultima vez. Este problema foi "
-"causado provavelmente por uma modificacao, por isso todos os mods foram "
-"desativados.\n"
-"\n"
-"Voce pode tentar reativar os mods na tela de configuracoes de mods.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "O jogo nao iniciou corretamente na ultima vez.  Isso provavelmente foi "
 "devido a um mod, portanto todos os mods foram desligados. \n"
 "\n"
@@ -36751,14 +35699,9 @@ msgid "Restart Required"
 msgstr "Requer Reiniciar"
 
 #. STRINGS.UI.MAINSCREEN.MODDETAIL
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.MODDETAIL"
 msgid "Installed mods: "
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mods instalados: \n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Mods instalados:"
+msgstr "Mods instalados:"
 
 #. STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER
 msgctxt "STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_HEADER"
@@ -36861,14 +35804,9 @@ msgid "Disable Mods"
 msgstr "Desativar Mods"
 
 #. STRINGS.UI.MAINSCREEN.ACCOUNTINFO
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.ACCOUNTINFO"
 msgid "Account Info"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Infomacoes da Conta\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Informacao da Conta"
+msgstr "Informacao da Conta"
 
 #. STRINGS.UI.MAINSCREEN.ASKQUIT
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUIT"
@@ -36876,14 +35814,9 @@ msgid "Do you really want to quit?"
 msgstr "Voce deseja realmente sair?"
 
 #. STRINGS.UI.MAINSCREEN.NEWGO
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.NEWGO"
 msgid "Lets Go!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos La!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos!"
+msgstr "Vamos!"
 
 #. STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_TEXT
 msgctxt "STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_TEXT"
@@ -36902,14 +35835,9 @@ msgid "What kind of game would you like to play?"
 msgstr "Que tipo de jogo voce gostaria de jogar?"
 
 #. STRINGS.UI.MAINSCREEN.SURE
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.SURE"
 msgid "Are you sure?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce tem certeza?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tem certeza?"
+msgstr "Tem certeza?"
 
 #. STRINGS.UI.MAINSCREEN.DLC_UPDATENAME
 msgctxt "STRINGS.UI.MAINSCREEN.DLC_UPDATENAME"
@@ -36927,16 +35855,11 @@ msgid "The Screecher Is Waiting For You..."
 msgstr "The Screecher Esta Esperando Voce..."
 
 #. STRINGS.UI.MAINSCREEN.MODDETAIL2
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.MODDETAIL2"
 msgid ""
 "Klei is not able to help you should issues arise while using mods. Use with "
 "caution!"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Klei Entertainment nao sera capaz de ajuda-lo caso surjam problemas durante "
-"a utilizacao de mods. Use com cuidado!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "A Klei nao podera ajuda-lo com problemas devido ao uso de mods. Use com "
 "cautela!"
 
@@ -36970,14 +35893,9 @@ msgid "Unknown"
 msgstr "Desconhecido"
 
 #. STRINGS.UI.MAINSCREEN.PLAYDEMO
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.PLAYDEMO"
 msgid "Play Demo"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jogar Demonstracao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jogar a Demo"
+msgstr "Jogar a Demo"
 
 #. STRINGS.UI.MAINSCREEN.YES
 msgctxt "STRINGS.UI.MAINSCREEN.YES"
@@ -37024,14 +35942,9 @@ msgid "More Games"
 msgstr "Mais Jogos"
 
 #. STRINGS.UI.MAINSCREEN.VISITFORUM
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.VISITFORUM"
 msgid "Visit Forum"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Visitar Forum\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Visite o Forum"
+msgstr "Visite o Forum"
 
 #. STRINGS.UI.MAINSCREEN.ASKQUITDESC
 msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
@@ -37044,24 +35957,14 @@ msgid "Restart"
 msgstr "Reiniciar"
 
 #. STRINGS.UI.MAINSCREEN.CANT_LOAD_TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.CANT_LOAD_TITLE"
 msgid "Load Failed"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Falha ao Carregar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Falhou em Carregar"
+msgstr "Falhou em Carregar"
 
 #. STRINGS.UI.MAINSCREEN.ENTERKEY
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.ENTERKEY"
 msgid "Enter New Key"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Entrar com nova Chave\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Inserir Chave Nova"
+msgstr "Inserir Chave Nova"
 
 #. STRINGS.UI.MAINSCREEN.OPTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
@@ -37069,14 +35972,9 @@ msgid "Options"
 msgstr "Opcoes"
 
 #. STRINGS.UI.MAINSCREEN.NEWWORLD
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.NEWWORLD"
 msgid "Create a new world!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Criar um novo mundo!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Criar um mundo novo!"
+msgstr "Criar um mundo novo!"
 
 #. STRINGS.UI.MAINSCREEN.NEWMODDETAIL
 msgctxt "STRINGS.UI.MAINSCREEN.NEWMODDETAIL"
@@ -37099,14 +35997,9 @@ msgid "Adventure"
 msgstr "Aventura"
 
 #. STRINGS.UI.MAINSCREEN.TESTINGYES
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGYES"
 msgid "I understand"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu Concordo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eu compreendo"
+msgstr "Eu compreendo"
 
 #. STRINGS.UI.MAINSCREEN.CONTROLS
 msgctxt "STRINGS.UI.MAINSCREEN.CONTROLS"
@@ -37138,14 +36031,9 @@ msgid "What would you like to do?"
 msgstr "O que voce gostaria de fazer?"
 
 #. STRINGS.UI.MAINSCREEN.DELETE
-#, fuzzy
 msgctxt "STRINGS.UI.MAINSCREEN.DELETE"
 msgid "Delete"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deletar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apagar"
+msgstr "Apagar"
 
 #. STRINGS.UI.STARTADVENTURE.BODY
 msgctxt "STRINGS.UI.STARTADVENTURE.BODY"
@@ -37174,14 +36062,9 @@ msgid "Not Yet"
 msgstr "Ainda Nao"
 
 #. STRINGS.UI.STARTADVENTURE.YES
-#, fuzzy
 msgctxt "STRINGS.UI.STARTADVENTURE.YES"
 msgid "Let's Go!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos La!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vamos!"
+msgstr "Vamos!"
 
 #. STRINGS.UI.STARTADVENTURE.BODY_TEST
 msgctxt "STRINGS.UI.STARTADVENTURE.BODY_TEST"
@@ -37245,14 +36128,9 @@ msgid "... (list truncated)"
 msgstr "... (lista reduzida)"
 
 #. STRINGS.UI.SLOTDETAILSSCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.SLOTDETAILSSCREEN.TITLE"
 msgid "Slot"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Espaco\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Jogo"
+msgstr "Jogo"
 
 #. STRINGS.UI.SLOTDETAILSSCREEN.PLAY
 msgctxt "STRINGS.UI.SLOTDETAILSSCREEN.PLAY"
@@ -37279,14 +36157,9 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. STRINGS.UI.SLOTDETAILSSCREEN.DELETE
-#, fuzzy
 msgctxt "STRINGS.UI.SLOTDETAILSSCREEN.DELETE"
 msgid "Delete"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Deletar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Apagar"
+msgstr "Apagar"
 
 #. STRINGS.UI.OPTIONS.DISTORTION
 msgctxt "STRINGS.UI.OPTIONS.DISTORTION"
@@ -37304,24 +36177,14 @@ msgid "Bloom"
 msgstr "Bloom de Luz"
 
 #. STRINGS.UI.OPTIONS.SCREENSHAKE
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.SCREENSHAKE"
 msgid "Screen Shake"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Agitar Tela\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tremor da Tela"
+msgstr "Tremor da Tela"
 
 #. STRINGS.UI.OPTIONS.SMALLTEXTURES
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.SMALLTEXTURES"
 msgid "Small Textures"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Texturas Pequenas\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Pequenas Texturas"
+msgstr "Pequenas Texturas"
 
 #. STRINGS.UI.OPTIONS.FULLSCREEN
 msgctxt "STRINGS.UI.OPTIONS.FULLSCREEN"
@@ -37334,14 +36197,9 @@ msgid "Vibration"
 msgstr "Vibracao"
 
 #. STRINGS.UI.OPTIONS.BACKBODY
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.BACKBODY"
 msgid "Do you want to throw out your changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce quer descartar suas alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce quer desfazer as mudancas?"
+msgstr "Voce quer desfazer as mudancas?"
 
 #. STRINGS.UI.OPTIONS.APPLY
 msgctxt "STRINGS.UI.OPTIONS.APPLY"
@@ -37349,24 +36207,14 @@ msgid "Apply"
 msgstr "Aplicar"
 
 #. STRINGS.UI.OPTIONS.ACCEPTGRAPHICSBODY
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.ACCEPTGRAPHICSBODY"
 msgid "Do you wish to accept these changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce deseja aceitar essas alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Voce desejar aceitar estas modificacoes?"
+msgstr "Voce desejar aceitar estas modificacoes?"
 
 #. STRINGS.UI.OPTIONS.ACCEPTTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.ACCEPTTITLE"
 msgid "Accept Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aceitar Mudancas"
+msgstr "Aceitar Mudancas"
 
 #. STRINGS.UI.OPTIONS.NO
 msgctxt "STRINGS.UI.OPTIONS.NO"
@@ -37384,14 +36232,9 @@ msgid "Ambient"
 msgstr "Ambiente"
 
 #. STRINGS.UI.OPTIONS.BACKTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.BACKTITLE"
 msgid "Revert Changes?"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Reverter Alteracoes?\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Desfazer Mudancas?"
+msgstr "Desfazer Mudancas?"
 
 #. STRINGS.UI.OPTIONS.YES
 msgctxt "STRINGS.UI.OPTIONS.YES"
@@ -37399,14 +36242,9 @@ msgid "Yes"
 msgstr "Sim"
 
 #. STRINGS.UI.OPTIONS.REVERT
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.REVERT"
 msgid "Revert Changes"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Reverter Alteracoes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Desfazer Trocas"
+msgstr "Desfazer Trocas"
 
 #. STRINGS.UI.OPTIONS.ACCEPTBODY
 msgctxt "STRINGS.UI.OPTIONS.ACCEPTBODY"
@@ -37414,14 +36252,9 @@ msgid "Do you wish to accept these changes?"
 msgstr "Voce desejar aceitar estas modificacoes?"
 
 #. STRINGS.UI.OPTIONS.REFRESHRATE
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.REFRESHRATE"
 msgid "Refresh Rate"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Atualizar Rate\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Atualizacao Vertical"
+msgstr "Atualizacao Vertical"
 
 #. STRINGS.UI.OPTIONS.RESOLUTION
 msgctxt "STRINGS.UI.OPTIONS.RESOLUTION"
@@ -37444,14 +36277,9 @@ msgid "Wigfrid's Umlauts"
 msgstr "Tremas da Wigfrid"
 
 #. STRINGS.UI.OPTIONS.FX
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.FX"
 msgid "FX"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"FX\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Efeitos"
+msgstr "Efeitos"
 
 #. STRINGS.UI.OPTIONS.DISPLAY_AREA_LABEL
 msgctxt "STRINGS.UI.OPTIONS.DISPLAY_AREA_LABEL"
@@ -37459,14 +36287,9 @@ msgid "Display Area"
 msgstr "Area de Exibicao"
 
 #. STRINGS.UI.OPTIONS.HUDSIZE
-#, fuzzy
 msgctxt "STRINGS.UI.OPTIONS.HUDSIZE"
 msgid "HUD size"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tamanho de HUD\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Tamanho do HUD"
+msgstr "Tamanho do HUD"
 
 #. STRINGS.UI.OPTIONS.DISABLED
 msgctxt "STRINGS.UI.OPTIONS.DISABLED"
@@ -37504,176 +36327,113 @@ msgid "Enabled"
 msgstr "Ativado"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilson
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilson"
 msgid "*Grows a magnificent beard"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Cresce uma magnifica barba\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Cultiva uma bela barba"
+msgstr "*Cultiva uma bela barba"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wendy
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wendy"
 msgid ""
 "*Haunted by her twin sister\n"
 "*Comfortable with darkness\n"
 "*Doesn't hit very hard"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Assombrada por sua irma gemea\n"
-"*Confortavel com a escuridao\n"
-"*Nao bate muito forte\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Assombrada pela irma gemea\n"
 "*Confortavel com a escuridao\n"
 "*Nao causa muito dano"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.webber
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
 msgid ""
 "*Is a monster\n"
 "*Can befriend spiders\n"
 "*Grows a silky smooth beard"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Eh um monstro\n"
-"*Pode fazer amizade com aranhas\n"
-"*Cresce uma barba suave como seda\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*E um monstro\n"
 "*Pode se aliar à aranhas\n"
 "*Cultiva uma barba suave de seda"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
 msgid ""
 "*Immune to fire damage\n"
 "*Has a sweet lighter\n"
 "*Lights fires when nervous"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Imune a danos pelo fogo\n"
-"*Tem um belo isqueiro\n"
-"*Coloca fogo nas coisas quando esta nervosa\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Imune a dano por calor\n"
 "*Tem um isqueiro legal\n"
 "*Ateia fogo quando fica nervosa"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.waxwell
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.waxwell"
 msgid ""
 "*Is dapper but frail\n"
 "*Can fragment his mind\n"
 "*Brings his own sword"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Eh elegante mas fragil\n"
-"*Pode fragmentar sua mente\n"
-"*Tem sua propria espada\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*E mais garboso porem fraco\n"
 "*Pode fragmentar a mente dele\n"
 "*Tem sua propria espada"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom"
 msgid ""
 "*Knows many things\n"
 "*Self-publishes books\n"
 "*Can't sleep, hates spoilage"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Sabe muitas coisas\n"
-"*Auto-publica livros\n"
-"*Nao consegue dormir, odeia a deterioracao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Sabe muitas coisas\n"
 "*Publica seus proprios livros\n"
 "*Sofre de insonia e odeia podridao"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wolfgang"
 msgid ""
 "*Gets stronger with a full belly\n"
 "*Is afraid of the dark and monsters"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Fica mais forte com a barriga cheia\n"
-"*Tem medo do escuro e monstros\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Fica mais forte de barriga cheia\n"
 "*Tem medo do escuro e de monstros\n"
 "*Fala com sotaque alemao"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
 msgid ""
 "*Not a picky eater\n"
 "*Charged by lightning, damaged by water\n"
 "*Can upgrade with gears"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Nao eh um comedor exigente\n"
-"*Carregado por um raio, danificado pela agua\n"
-"*Pode se atualizar com engrenagens\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Nao e exigente com comida\n"
 "*Carregado por relampagos, danificado por chuva\n"
 "*Melhorias atraves de engrenagens"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr"
 msgid ""
 "*Excels in battle\n"
 "*Gains power from fallen foes\n"
 "*Only eats meat"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Excelente em batalha\n"
-"*Ganha poder dos inimigos caidos\n"
-"*So come carne\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Se sobressai em batalhas\n"
 "*Ganha forca por inimigos derrotados\n"
 "*So come carne"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie"
 msgid ""
 "*Has a lovely axe\n"
 "*Has a terrible secret"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Tem um belo machado\n"
-"*Tem um terrivel segredo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Tem um belo machado\n"
 "*Tem um segredo terrivel"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wes
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
 msgid ""
 "*Can't talk\n"
 "*Has trouble staying alive\n"
 "*Practices balloonomancy"
 msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"*Nao pode falar\n"
-"*Tem dificuldade para se manter vivo\n"
-"*Pratica Arte com Baloes\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
 "*Nao consegue falar\n"
 "*Tem dificuldade em ficar vivo\n"
 "*Pratica bexigomancia"
@@ -38394,94 +37154,49 @@ msgid "Salty"
 msgstr "Salgadinho"
 
 #. STRINGS.CHARACTER_QUOTES.wilson
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wilson"
 msgid "\"I will conquer it all with the power of my MIND!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Eu vou conquistar tudo com o poder da minha MENTE!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Dominarei tudo com o poder da minha MENTE!\""
+msgstr "\"Dominarei tudo com o poder da minha MENTE!\""
 
 #. STRINGS.CHARACTER_QUOTES.wendy
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wendy"
 msgid "\"Abigail? Come back! I'm not done playing with you.\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Abigail? Volte! Ainda nao terminei de brincar com voce.\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Abigail? Volte! Eu nao acabei de brincar com voce.\""
+msgstr "\"Abigail? Volte! Eu nao acabei de brincar com voce.\""
 
 #. STRINGS.CHARACTER_QUOTES.webber
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.webber"
 msgid "\"We can overcome anything!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Nos podemos superar qualquer coisa!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Podemos conquistar qualquer coisa!\""
+msgstr "\"Podemos conquistar qualquer coisa!\""
 
 #. STRINGS.CHARACTER_QUOTES.willow
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.willow"
 msgid "\"Things are so much prettier when they burn.\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"As coisas sao muito mais bonitas quando se queimam.\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"As coisas ficam mais lindas quando queimam.\""
+msgstr "\"As coisas ficam mais lindas quando queimam.\""
 
 #. STRINGS.CHARACTER_QUOTES.waxwell
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.waxwell"
 msgid "\"Freedom!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Liberdade!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"'Liberdade!'"
+msgstr "'Liberdade!'"
 
 #. STRINGS.CHARACTER_QUOTES.wickerbottom
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
 msgid "\"Shhhh! No talking!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Shhhh! Nao fale!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Xiiiu! Sem conversas!\""
+msgstr "\"Xiiiu! Sem conversas!\""
 
 #. STRINGS.CHARACTER_QUOTES.wolfgang
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
 msgid "\"I am mighty! No one is mightier!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Eu sou poderoso! Ninguem eh mais poderoso!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Eu ser forte! Ninguem ser mais forte!\""
+msgstr "\"Eu ser forte! Ninguem ser mais forte!\""
 
 #. STRINGS.CHARACTER_QUOTES.woodie
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
 msgid "\"That's nice tree, eh?\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Isso eh bom arvore, eh?\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Arvore legal, visse?\""
+msgstr "\"Arvore legal, visse?\""
 
 #. STRINGS.CHARACTER_QUOTES.wathgrithr
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wathgrithr"
 msgid "\"A test of my incredible acting!\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Um teste de minha atuacao incrivel!\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"Um teste da minha incrivel atuacao!\""
+msgstr "\"Um teste da minha incrivel atuacao!\""
 
 #. STRINGS.CHARACTER_QUOTES.wes
 msgctxt "STRINGS.CHARACTER_QUOTES.wes"
@@ -38489,14 +37204,9 @@ msgid "..."
 msgstr "..."
 
 #. STRINGS.CHARACTER_QUOTES.wx78
-#, fuzzy
 msgctxt "STRINGS.CHARACTER_QUOTES.wx78"
 msgid "\"EMPATHY MODULE NOT RESPONDING\""
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"MODULO EMPATIA NAO RESPONDENDO\"\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"\"MODULO DE EMPATIA NAO ESTA RESPONDENDO\""
+msgstr "\"MODULO DE EMPATIA NAO ESTA RESPONDENDO\""
 
 #. STRINGS.TABS.FARM
 msgctxt "STRINGS.TABS.FARM"
@@ -38509,14 +37219,9 @@ msgid "Structures"
 msgstr "Estruturas"
 
 #. STRINGS.TABS.ANCIENT
-#, fuzzy
 msgctxt "STRINGS.TABS.ANCIENT"
 msgid "Ancient"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Antigo\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ancestral"
+msgstr "Ancestral"
 
 #. STRINGS.TABS.GEMOLOGY
 msgctxt "STRINGS.TABS.GEMOLOGY"
@@ -38539,34 +37244,19 @@ msgid "Books"
 msgstr "Livros"
 
 #. STRINGS.TABS.WAR
-#, fuzzy
 msgctxt "STRINGS.TABS.WAR"
 msgid "Fight"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Armas\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Combate"
+msgstr "Combate"
 
 #. STRINGS.TABS.DRESS
-#, fuzzy
 msgctxt "STRINGS.TABS.DRESS"
 msgid "Dress"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Vestimento\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Roupas         "
+msgstr "Roupas         "
 
 #. STRINGS.TABS.REFINE
-#, fuzzy
 msgctxt "STRINGS.TABS.REFINE"
 msgid "Refine"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Refinar\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Refinacao"
+msgstr "Refinacao"
 
 #. STRINGS.TABS.SCIENCE
 msgctxt "STRINGS.TABS.SCIENCE"
@@ -38574,14 +37264,9 @@ msgid "Science"
 msgstr "Ciencia"
 
 #. STRINGS.TABS.LIGHT
-#, fuzzy
 msgctxt "STRINGS.TABS.LIGHT"
 msgid "Light"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Iluminacao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Luzes"
+msgstr "Luzes"
 
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
@@ -38589,104 +37274,54 @@ msgid "Survival"
 msgstr "Sobrevivencia"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.1
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_RUNAWAY_WILSON.1"
 msgid "TOO CLOSE!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"MUITO PERTO!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"DESGRUDA!"
+msgstr "DESGRUDA!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.2
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_RUNAWAY_WILSON.2"
 msgid "STAY AWAY!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"FIQUE LONGE!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"SAI PA LA!"
+msgstr "SAI PA LA!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.3
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_RUNAWAY_WILSON.3"
 msgid "YOU BACK OFF!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"NAO VOLTE MAIS!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"NEM VEM!"
+msgstr "NEM VEM!"
 
 #. STRINGS.PIG_TALK_RUNAWAY_WILSON.4
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_RUNAWAY_WILSON.4"
 msgid "THAT MY SPACE."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"ESSE EH MEU ESPACO.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"AQUI MEU CANTO."
+msgstr "AQUI MEU CANTO."
 
 #. STRINGS.EPITAPHS.1
-#, fuzzy
 msgctxt "STRINGS.EPITAPHS.1"
 msgid "Here lies some guy. Blah blah blah."
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aqui reside um cara. Bla bla bla.\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Aqui jaz um qualquer. Bla bla bla."
+msgstr "Aqui jaz um qualquer. Bla bla bla."
 
 #. STRINGS.EPITAPHS.2
-#, fuzzy
 msgctxt "STRINGS.EPITAPHS.2"
 msgid "This headstone is blank"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esta lapide esta em branco\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Essa lapide esta em branco."
+msgstr "Essa lapide esta em branco."
 
 #. STRINGS.EPITAPHS.3
-#, fuzzy
 msgctxt "STRINGS.EPITAPHS.3"
 msgid "It says: 'Milk. Eggs. Bacon.'"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Ele diz: 'Leite. Ovos. Bacon.'\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Esta escrito: 'Bacon. Ovos. Leite.'"
+msgstr "Esta escrito: 'Bacon. Ovos. Leite.'"
 
 #. STRINGS.EPITAPHS.4
-#, fuzzy
 msgctxt "STRINGS.EPITAPHS.4"
 msgid "Hey that's my name!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Hey esse eh o meu nome!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Eita, e o meu nome!"
+msgstr "Eita, e o meu nome!"
 
 #. STRINGS.PIG_TALK_GO_HOME.1
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_GO_HOME.1"
 msgid "HOME TIME!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"HORA DE IR PRA CASA!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"PARTIU!"
+msgstr "PARTIU!"
 
 #. STRINGS.PIG_TALK_GO_HOME.2
-#, fuzzy
 msgctxt "STRINGS.PIG_TALK_GO_HOME.2"
 msgid "HOME! HOME!"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"CASA! CASA!\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"CASA CASA"
+msgstr "CASA CASA"
 
 #. STRINGS.SELECT
 msgctxt "STRINGS.SELECT"
@@ -38814,14 +37449,9 @@ msgid "Acct Info"
 msgstr "Perfil"
 
 #. STRINGS.UI.SKINSSCREEN.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.SKINSSCREEN.TITLE"
 msgid "'s Collection"
-msgstr ""
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"Colecao\n"
-"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
-"'s Colecao"
+msgstr "'s Colecao"
 
 #. STRINGS.UI.MAINSCREEN.TOOLTIP_SKINS
 msgctxt "STRINGS.UI.MAINSCREEN.TOOLTIP_SKINS"
@@ -47365,22 +45995,19 @@ msgid "Fiery."
 msgstr "Armadura com humor igneo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATERMELONICLE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATERMELONICLE"
 msgid "The case is cold on the melon."
-msgstr "Melancia Fashion"
+msgstr "Melancia Fashion."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN.BURNT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN.BURNT"
 msgid "Bathed in fire."
-msgstr "Fogo"
+msgstr "Fogo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TUMBLEWEED
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TUMBLEWEED"
 msgid "Tumble on, weed."
-msgstr "Arbusto Seco"
+msgstr "Arbusto Seco."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FERTILIZER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FERTILIZER"
@@ -47388,10 +46015,9 @@ msgid "Much better than carrying manure in my hands."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTSTICK
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTSTICK"
 msgid "Good morning."
-msgstr "Mangual"
+msgstr "Mangual."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANCIENT_ALTAR
 #, fuzzy
@@ -47400,10 +46026,9 @@ msgid "Where are their gods now?"
 msgstr "Cade os deuses deles agora?"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ICE
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ICE"
 msgid "Baby glaciers."
-msgstr "Tentaculo Bebe"
+msgstr "Tentaculo Bebe."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHEAD.GENERIC
 #, fuzzy
@@ -47412,22 +46037,19 @@ msgid "The eyes follow you around."
 msgstr "Os olhos ficam te seguindo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHEAD.BURNT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHEAD.BURNT"
 msgid "Roasted merm head. Delicious."
-msgstr "Cabeca de Peixundo"
+msgstr "Cabeca de Peixundo."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SKELETON_PLAYER
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SKELETON_PLAYER"
 msgid "The master becomes the student."
-msgstr "O Mestre dos Fantoches"
+msgstr "O Mestre dos Fantoches."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FARMPLOT.BURNT
-#, fuzzy
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FARMPLOT.BURNT"
 msgid "A harvest of ashes."
-msgstr "Cinzas"
+msgstr "Cinzas."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATERMELONHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WATERMELONHAT"
